@@ -1,4 +1,4 @@
-.version sol 0.61.2
+.version sol 0.62.0
 
 .macro constructor
 DROP
@@ -18,7 +18,7 @@ PUSHCONT {
 IF
 LDMSGADDR
 ENDS
-.loc ../contracts/TIP4_3/Index.tsol, 28
+.loc ../contracts/TIP4_3/Index.tsol, 27
 MYCODE
 
 CALLREF {
@@ -100,7 +100,7 @@ OVER
 ISNULL
 NOT
 THROWARGIFNOT 102
-.loc ../contracts/TIP4_3/Index.tsol, 30
+.loc ../contracts/TIP4_3/Index.tsol, 31
 DUP
 ISNULL
 THROWIF 63
@@ -110,24 +110,24 @@ LDMSGADDR
 LDMSGADDR
 DROP
 BLKDROP2 1, 2
-.loc ../contracts/TIP4_3/Index.tsol, 34
+.loc ../contracts/TIP4_3/Index.tsol, 36
 GETGLOB 9
 GETGLOB 10
 SDEQ
 THROWIFNOT 100
-.loc ../contracts/TIP4_3/Index.tsol, 35
+.loc ../contracts/TIP4_3/Index.tsol, 38
 ACCEPT
-.loc ../contracts/TIP4_3/Index.tsol, 36
+.loc ../contracts/TIP4_3/Index.tsol, 40
 OVER
 SETGLOB 11
-.loc ../contracts/TIP4_3/Index.tsol, 37
+.loc ../contracts/TIP4_3/Index.tsol, 41
 SETGLOB 12
-.loc ../contracts/TIP4_3/Index.tsol, 38
+.loc ../contracts/TIP4_3/Index.tsol, 43
 PARSEMSGADDR
 INDEX 3
 PLDU 256
 PUSHCONT {
-	.loc ../contracts/TIP4_3/Index.tsol, 39
+	.loc ../contracts/TIP4_3/Index.tsol, 44
 	DUP
 	SETGLOB 11
 	.loc ../contracts/TIP4_3/Index.tsol, 0
@@ -149,7 +149,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_3/Index.tsol, 46
+.loc ../contracts/TIP4_3/Index.tsol, 51
 LDU 32
 GETGLOB 4
 ROT
@@ -158,7 +158,7 @@ SETGLOB 4
 ENDS
 .loc ../contracts/TIP4_3/Index.tsol, 0
 CALLREF {
-	CALL $getInfo_internal_macro$
+	CALL $getInfo_5a9b0b89_internal_macro$
 }
 PUSH S3
 PUSHCONT {
@@ -234,12 +234,12 @@ IFREF {
 }
 THROW 0
 
-.globl	getInfo_internal
-.type	getInfo_internal, @function
-CALL $getInfo_internal_macro$
+.globl	getInfo_5a9b0b89_internal
+.type	getInfo_5a9b0b89_internal, @function
+CALL $getInfo_5a9b0b89_internal_macro$
 
-.macro getInfo_internal_macro
-.loc ../contracts/TIP4_3/Index.tsol, 51
+.macro getInfo_5a9b0b89_internal_macro
+.loc ../contracts/TIP4_3/Index.tsol, 56
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -262,7 +262,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_3/Index.tsol, 60
+.loc ../contracts/TIP4_3/Index.tsol, 65
 OVER
 PUSHCONT {
 	LDREF
@@ -274,7 +274,7 @@ LDMSGADDR
 ENDS
 .loc ../contracts/TIP4_3/Index.tsol, 0
 CALLREF {
-	CALL $destruct_internal_macro$
+	CALL $destruct_1beb2615_internal_macro$
 }
 DROP
 CALLREF {
@@ -282,12 +282,12 @@ CALLREF {
 }
 THROW 0
 
-.globl	destruct_internal
-.type	destruct_internal, @function
-CALL $destruct_internal_macro$
+.globl	destruct_1beb2615_internal
+.type	destruct_1beb2615_internal, @function
+CALL $destruct_1beb2615_internal_macro$
 
-.macro destruct_internal_macro
-.loc ../contracts/TIP4_3/Index.tsol, 61
+.macro destruct_1beb2615_internal_macro
+.loc ../contracts/TIP4_3/Index.tsol, 66
 PUSHREF {
 	.blob x4d6574686f6420666f72204e4654206f6e6c79
 }
@@ -295,7 +295,7 @@ GETGLOB 9
 GETGLOB 10
 SDEQ
 THROWARGIFNOT 101
-.loc ../contracts/TIP4_3/Index.tsol, 62
+.loc ../contracts/TIP4_3/Index.tsol, 68
 NEWC
 STSLICECONST x42_
 STSLICE

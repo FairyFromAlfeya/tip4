@@ -1,17 +1,16 @@
-pragma ever-solidity ^0.61.2;
+pragma ever-solidity ^0.62.0;
 
-import './interfaces/IIndexBasis.tsol';
+import "@broxus/contracts/contracts/libraries/MsgFlag.tsol";
+
+import "./interfaces/IIndexBasis.tsol";
 
 /**
  * Errors
  *   101 - Method for collection only
  **/
 
-
 /// @title This contract helps to find all collections by the code hash of which
-
 contract IndexBasis is IIndexBasis {
-
     /// Collection token contract address
     address static _collection;
 
@@ -26,7 +25,7 @@ contract IndexBasis is IIndexBasis {
 
     /// @return collection - collection token contract address
     function getInfo() override public view responsible returns (address collection) {
-        return {value: 0, bounce: false, flag: 64} _collection;
+        return { value: 0, bounce: false, flag: MsgFlag.REMAINING_GAS } _collection;
     }
 
     /// @notice This method used for destruct token, can be called only by nft

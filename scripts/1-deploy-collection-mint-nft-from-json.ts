@@ -1,9 +1,9 @@
 import { Migration } from "./migration";
+import { BigNumber } from "bignumber.js";
+import prompts from "prompts";
+import fs from "fs";
 
 const migration = new Migration();
-const BigNumber = require("bignumber.js");
-const fs = require("fs");
-const prompts = require("prompts");
 
 export type AddressN = `0:${string}`;
 export const isValidEverAddress = (address: string): address is AddressN =>
@@ -45,13 +45,13 @@ async function main() {
     );
   }
 
-  const Nft = await locklift.factory.getContractArtifacts("Nft");
-  const Index = await locklift.factory.getContractArtifacts("Index");
-  const IndexBasis = await locklift.factory.getContractArtifacts("IndexBasis");
+  const Nft = locklift.factory.getContractArtifacts("Nft");
+  const Index = locklift.factory.getContractArtifacts("Index");
+  const IndexBasis = locklift.factory.getContractArtifacts("IndexBasis");
 
   console.log("Start deploy collection");
 
-  const { contract: collection, tx } = await locklift.factory.deployContract({
+  const { contract: collection } = await locklift.factory.deployContract({
     contract: "Collection",
     publicKey: signer?.publicKey as string,
     constructorParams: {
@@ -60,7 +60,7 @@ async function main() {
       codeIndexBasis: IndexBasis.code,
       owner: account.address,
       remainOnNft: locklift.utils.toNano(0.2),
-      json: JSON.stringify(array_json.collection),
+      json: JSON.stringify(array_json["collection"]),
     },
     initParams: {
       nonce_: locklift.utils.getRandomNonce(),
@@ -72,8 +72,8 @@ async function main() {
   console.log("Collection", collection.address);
   migration.store(collection, "Collection");
 
-  if (array_json.nfts) {
-    for (const element of array_json.nfts) {
+  if (array_json["nfts"]) {
+    for (const element of array_json["nfts"]) {
       console.log(`Mint ${element.name}`);
       let item = {
         type: "Basic NFT",

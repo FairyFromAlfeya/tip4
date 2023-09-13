@@ -1,7 +1,6 @@
-pragma ever-solidity ^0.61.2;
+pragma ever-solidity ^0.62.0;
 
 interface IIndex {
-    
     function getInfo() external view responsible returns (
         address collection,
         address owner,
@@ -9,5 +8,4 @@ interface IIndex {
     );
     
     function destruct(address gasReceiver) external;
-
 }

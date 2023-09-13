@@ -1,9 +1,8 @@
-pragma ever-solidity ^0.61.2;
+pragma ever-solidity ^0.62.0;
 
 import "../structures/ICallbackParamsStructure.tsol";
 
 interface ITIP4_1NFT is ICallbackParamsStructure {
-
     /// @notice The event emits when NFT created
     /// @dev Emit the event when NFT is ready to use
     /// @param id Unique NFT id
@@ -33,16 +32,16 @@ interface ITIP4_1NFT is ICallbackParamsStructure {
     /// @return owner Address of NFT owner
     /// @return manager Address of NFT manager
     /// @return collection Address of collection smart contract
-    function getInfo() external view responsible returns(
+    function getInfo() external view responsible returns (
         uint256 id,
         address owner,
         address manager,
         address collection
-        );
+    );
 
     /// @notice Change NFT owner
     /// @dev Invoked from manager address only
-    /// @dev Good practices is сhange manager address to newOwner address too
+    /// @dev Good practices is change manager address to newOwner address too
     /// @dev Emit OwnerChanged
     /// @dev Emit ManagerChanged events if manager address changed
     /// @param newOwner - New owner of NFT
@@ -78,5 +77,4 @@ interface ITIP4_1NFT is ICallbackParamsStructure {
         address sendGasTo,
         mapping(address => CallbackParams) callbacks
     ) external;
-
 }
