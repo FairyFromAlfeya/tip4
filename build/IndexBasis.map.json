@@ -1,0 +1,1124 @@
+{
+  "map": {
+    "096c51b7a5ddd02ee2f674a89a2042112ed30be5f812043472ab375baf04e498": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 193
+      },
+      "16": {
+        "filename": "IndexBasis.code",
+        "line": 194
+      },
+      "24": {
+        "filename": "IndexBasis.code",
+        "line": 195
+      },
+      "40": {
+        "filename": "IndexBasis.code",
+        "line": 196
+      },
+      "56": {
+        "filename": "IndexBasis.code",
+        "line": 197
+      },
+      "72": {
+        "filename": "IndexBasis.code",
+        "line": 221
+      }
+    },
+    "0c2a386f2eb8f18afaede8d909b7d803d40a508c31982ca5350cda8eff77c9b7": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 125
+      },
+      "8": {
+        "filename": "IndexBasis.code",
+        "line": 126
+      },
+      "24": {
+        "filename": "IndexBasis.code",
+        "line": 127
+      },
+      "48": {
+        "filename": "IndexBasis.code",
+        "line": 128
+      },
+      "64": {
+        "filename": "IndexBasis.code",
+        "line": 129
+      },
+      "72": {
+        "filename": "IndexBasis.code",
+        "line": 130
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 33
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 33
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 33
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 33
+      },
+      "136": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 33
+      },
+      "152": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 33
+      },
+      "160": {
+        "filename": "IndexBasis.code",
+        "line": 144
+      },
+      "176": {
+        "filename": "IndexBasis.code",
+        "line": 147
+      },
+      "184": {
+        "filename": "IndexBasis.code",
+        "line": 148
+      },
+      "200": {
+        "filename": "IndexBasis.code",
+        "line": 151
+      }
+    },
+    "1d2b2df8df7ac77ea7de62b25808ecf6334a8a352534575f66b9675f841df9cc": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "3940eb8ddbbb49cbfdf6b6f36c994e557837288ef99e1b159330c27fa80c5548": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 336
+      },
+      "8": {
+        "filename": "IndexBasis.code",
+        "line": 337
+      },
+      "48": {
+        "filename": "IndexBasis.code",
+        "line": 338
+      },
+      "56": {
+        "filename": "IndexBasis.code",
+        "line": 339
+      },
+      "72": {
+        "filename": "IndexBasis.code",
+        "line": 342
+      },
+      "80": {
+        "filename": "IndexBasis.code",
+        "line": 343
+      },
+      "128": {
+        "filename": "IndexBasis.code",
+        "line": 344
+      },
+      "136": {
+        "filename": "IndexBasis.code",
+        "line": 345
+      },
+      "152": {
+        "filename": "IndexBasis.code",
+        "line": 348
+      },
+      "160": {
+        "filename": "IndexBasis.code",
+        "line": 349
+      },
+      "208": {
+        "filename": "IndexBasis.code",
+        "line": 350
+      },
+      "216": {
+        "filename": "IndexBasis.code",
+        "line": 351
+      }
+    },
+    "58079878100619da99ef246cfd93e4504404a58f2e56df5f25b39a2a48a379e1": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 226
+      },
+      "16": {
+        "filename": "IndexBasis.code",
+        "line": 227
+      },
+      "32": {
+        "filename": "IndexBasis.code",
+        "line": 228
+      },
+      "48": {
+        "filename": "IndexBasis.code",
+        "line": 229
+      },
+      "56": {
+        "filename": "IndexBasis.code",
+        "line": 230
+      },
+      "72": {
+        "filename": "IndexBasis.code",
+        "line": 231
+      },
+      "88": {
+        "filename": "IndexBasis.code",
+        "line": 232
+      },
+      "104": {
+        "filename": "IndexBasis.code",
+        "line": 233
+      },
+      "112": {
+        "filename": "IndexBasis.code",
+        "line": 234
+      },
+      "120": {
+        "filename": "IndexBasis.code",
+        "line": 235
+      }
+    },
+    "5e8424e1b6c04b28b3c908787a91ea04634f1535a93dc4e012237d0ab072b0c2": {
+      "0": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "56": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 19
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 34
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 34
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 34
+      },
+      "136": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 34
+      },
+      "152": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 34
+      },
+      "168": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 34
+      },
+      "176": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 34
+      },
+      "200": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 34
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 208
+      }
+    },
+    "6f368e093521e8f081b2fe4d3c2ff01654b3eb272f103424f4106dd09b5a46c3": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 180
+      },
+      "16": {
+        "filename": "IndexBasis.code",
+        "line": 181
+      },
+      "24": {
+        "filename": "IndexBasis.code",
+        "line": 182
+      },
+      "40": {
+        "filename": "IndexBasis.code",
+        "line": 183
+      },
+      "56": {
+        "filename": "IndexBasis.code",
+        "line": 184
+      },
+      "72": {
+        "filename": "IndexBasis.code",
+        "line": 185
+      },
+      "80": {
+        "filename": "IndexBasis.code",
+        "line": 186
+      },
+      "96": {
+        "filename": "IndexBasis.code",
+        "line": 187
+      },
+      "104": {
+        "filename": "IndexBasis.code",
+        "line": 188
+      },
+      "120": {
+        "filename": "IndexBasis.code",
+        "line": 189
+      },
+      "136": {
+        "filename": "IndexBasis.code",
+        "line": 190
+      }
+    },
+    "71a366115436b6260b0d849a40e6a5cee04123e537583ddead0fe452e909b087": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 299
+      },
+      "16": {
+        "filename": "IndexBasis.code",
+        "line": 300
+      },
+      "24": {
+        "filename": "IndexBasis.code",
+        "line": 301
+      },
+      "40": {
+        "filename": "IndexBasis.code",
+        "line": 302
+      },
+      "56": {
+        "filename": "IndexBasis.code",
+        "line": 303
+      },
+      "72": {
+        "filename": "IndexBasis.code",
+        "line": 304
+      },
+      "80": {
+        "filename": "IndexBasis.code",
+        "line": 307
+      },
+      "96": {
+        "filename": "IndexBasis.code",
+        "line": 308
+      },
+      "104": {
+        "filename": "IndexBasis.code",
+        "line": 309
+      },
+      "120": {
+        "filename": "IndexBasis.code",
+        "line": 312
+      },
+      "136": {
+        "filename": "IndexBasis.code",
+        "line": 313
+      },
+      "144": {
+        "filename": "IndexBasis.code",
+        "line": 314
+      },
+      "152": {
+        "filename": "IndexBasis.code",
+        "line": 315
+      },
+      "168": {
+        "filename": "IndexBasis.code",
+        "line": 316
+      },
+      "184": {
+        "filename": "IndexBasis.code",
+        "line": 317
+      },
+      "192": {
+        "filename": "IndexBasis.code",
+        "line": 318
+      },
+      "208": {
+        "filename": "IndexBasis.code",
+        "line": 319
+      },
+      "216": {
+        "filename": "IndexBasis.code",
+        "line": 320
+      },
+      "232": {
+        "filename": "IndexBasis.code",
+        "line": 321
+      },
+      "248": {
+        "filename": "IndexBasis.code",
+        "line": 322
+      },
+      "264": {
+        "filename": "IndexBasis.code",
+        "line": 324
+      },
+      "272": {
+        "filename": "IndexBasis.code",
+        "line": 325
+      },
+      "288": {
+        "filename": "IndexBasis.code",
+        "line": 326
+      },
+      "296": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "312": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "320": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "328": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "344": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "352": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "368": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "392": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "400": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "440": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "448": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "456": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "488": {
+        "filename": "IndexBasis.code",
+        "line": 328
+      },
+      "504": {
+        "filename": "IndexBasis.code",
+        "line": 329
+      },
+      "512": {
+        "filename": "IndexBasis.code",
+        "line": 330
+      },
+      "528": {
+        "filename": "IndexBasis.code",
+        "line": 333
+      }
+    },
+    "7337b618bd0d04729c72b3be05a83746109eef587d8f623e0c3b06ce571a4679": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 198
+      },
+      "8": {
+        "filename": "IndexBasis.code",
+        "line": 199
+      },
+      "24": {
+        "filename": "IndexBasis.code",
+        "line": 200
+      },
+      "32": {
+        "filename": "IndexBasis.code",
+        "line": 201
+      },
+      "48": {
+        "filename": "IndexBasis.code",
+        "line": 202
+      },
+      "56": {
+        "filename": "IndexBasis.code",
+        "line": 203
+      },
+      "64": {
+        "filename": "IndexBasis.code",
+        "line": 204
+      },
+      "80": {
+        "filename": "IndexBasis.code",
+        "line": 205
+      },
+      "96": {
+        "filename": "IndexBasis.code",
+        "line": 206
+      },
+      "112": {
+        "filename": "IndexBasis.code",
+        "line": 211
+      },
+      "120": {
+        "filename": "IndexBasis.code",
+        "line": 212
+      },
+      "136": {
+        "filename": "IndexBasis.code",
+        "line": 213
+      },
+      "152": {
+        "filename": "IndexBasis.code",
+        "line": 214
+      },
+      "168": {
+        "filename": "IndexBasis.code",
+        "line": 215
+      },
+      "184": {
+        "filename": "IndexBasis.code",
+        "line": 216
+      },
+      "208": {
+        "filename": "IndexBasis.code",
+        "line": 217
+      },
+      "224": {
+        "filename": "IndexBasis.code",
+        "line": 218
+      },
+      "232": {
+        "filename": "IndexBasis.code",
+        "line": 219
+      }
+    },
+    "73867e37ec1ffb9ecb087a37d71892215b0b805a73c127da219a28729084e2e0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "d558e53bf690afc8a76b8887a99a49a52db1bd24bec5da84780ea0e7bc0aad3f": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 207
+      }
+    },
+    "dc8787bc7e45b6447eba9a7844c2a6387b89ae440449c59ead66097506997f75": {
+      "0": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      }
+    },
+    "eca15f6d9239b5a599ca8bb05504eca381cdc59def95d12b6eddbc9652e42c0c": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "IndexBasis.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "IndexBasis.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "IndexBasis.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "IndexBasis.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "IndexBasis.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "IndexBasis.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 18
+      },
+      "168": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 19
+      },
+      "184": {
+        "filename": "IndexBasis.code",
+        "line": 24
+      },
+      "200": {
+        "filename": "IndexBasis.code",
+        "line": 27
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 280
+      },
+      "16": {
+        "filename": "IndexBasis.code",
+        "line": 281
+      }
+    },
+    "f3b61a4000c3c7184ce678f9e1e4110ae68589f8807837b3aadc2988a5c99cc7": {
+      "0": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      },
+      "16": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 28
+      }
+    },
+    "f7906e59d5e5ffdfbb9b8858653ccebc627d20ab207d14a16ce0aa34b747d1b3": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 254
+      },
+      "16": {
+        "filename": "IndexBasis.code",
+        "line": 255
+      },
+      "24": {
+        "filename": "IndexBasis.code",
+        "line": 256
+      },
+      "40": {
+        "filename": "IndexBasis.code",
+        "line": 257
+      },
+      "56": {
+        "filename": "IndexBasis.code",
+        "line": 258
+      },
+      "72": {
+        "filename": "IndexBasis.code",
+        "line": 259
+      },
+      "80": {
+        "filename": "IndexBasis.code",
+        "line": 260
+      },
+      "88": {
+        "filename": "IndexBasis.code",
+        "line": 261
+      },
+      "104": {
+        "filename": "IndexBasis.code",
+        "line": 262
+      },
+      "120": {
+        "filename": "IndexBasis.code",
+        "line": 263
+      },
+      "128": {
+        "filename": "IndexBasis.code",
+        "line": 264
+      },
+      "144": {
+        "filename": "IndexBasis.code",
+        "line": 265
+      },
+      "168": {
+        "filename": "IndexBasis.code",
+        "line": 266
+      },
+      "184": {
+        "filename": "IndexBasis.code",
+        "line": 267
+      },
+      "192": {
+        "filename": "IndexBasis.code",
+        "line": 268
+      },
+      "208": {
+        "filename": "IndexBasis.code",
+        "line": 269
+      },
+      "248": {
+        "filename": "IndexBasis.code",
+        "line": 270
+      },
+      "264": {
+        "filename": "IndexBasis.code",
+        "line": 271
+      },
+      "272": {
+        "filename": "IndexBasis.code",
+        "line": 272
+      },
+      "288": {
+        "filename": "IndexBasis.code",
+        "line": 273
+      },
+      "296": {
+        "filename": "IndexBasis.code",
+        "line": 274
+      },
+      "312": {
+        "filename": "IndexBasis.code",
+        "line": 275
+      },
+      "328": {
+        "filename": "IndexBasis.code",
+        "line": 276
+      },
+      "336": {
+        "filename": "IndexBasis.code",
+        "line": 277
+      },
+      "344": {
+        "filename": "IndexBasis.code",
+        "line": 278
+      },
+      "360": {
+        "filename": "IndexBasis.code",
+        "line": 279
+      },
+      "376": {
+        "filename": "IndexBasis.code",
+        "line": 283
+      },
+      "384": {
+        "filename": "IndexBasis.code",
+        "line": 284
+      },
+      "408": {
+        "filename": "IndexBasis.code",
+        "line": 285
+      },
+      "424": {
+        "filename": "IndexBasis.code",
+        "line": 286
+      },
+      "432": {
+        "filename": "IndexBasis.code",
+        "line": 287
+      },
+      "448": {
+        "filename": "IndexBasis.code",
+        "line": 291
+      },
+      "456": {
+        "filename": "IndexBasis.code",
+        "line": 292
+      },
+      "472": {
+        "filename": "IndexBasis.code",
+        "line": 295
+      }
+    },
+    "f8dabde0c36f674b02f5a8c9358b072eb4a2543035582a617fce93ca2aacaf09": {
+      "0": {
+        "filename": "IndexBasis.code",
+        "line": 30
+      },
+      "8": {
+        "filename": "IndexBasis.code",
+        "line": 31
+      },
+      "24": {
+        "filename": "IndexBasis.code",
+        "line": 32
+      },
+      "48": {
+        "filename": "IndexBasis.code",
+        "line": 33
+      },
+      "64": {
+        "filename": "IndexBasis.code",
+        "line": 34
+      },
+      "72": {
+        "filename": "IndexBasis.code",
+        "line": 35
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 27
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 27
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 27
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 27
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 27
+      },
+      "160": {
+        "filename": "../contracts/TIP4_3/IndexBasis.tsol",
+        "line": 27
+      },
+      "168": {
+        "filename": "IndexBasis.code",
+        "line": 46
+      },
+      "184": {
+        "filename": "IndexBasis.code",
+        "line": 49
+      },
+      "192": {
+        "filename": "IndexBasis.code",
+        "line": 50
+      },
+      "208": {
+        "filename": "IndexBasis.code",
+        "line": 51
+      },
+      "216": {
+        "filename": "IndexBasis.code",
+        "line": 52
+      },
+      "224": {
+        "filename": "IndexBasis.code",
+        "line": 53
+      },
+      "240": {
+        "filename": "IndexBasis.code",
+        "line": 54
+      },
+      "256": {
+        "filename": "IndexBasis.code",
+        "line": 55
+      },
+      "264": {
+        "filename": "IndexBasis.code",
+        "line": 56
+      },
+      "272": {
+        "filename": "IndexBasis.code",
+        "line": 57
+      },
+      "280": {
+        "filename": "IndexBasis.code",
+        "line": 58
+      },
+      "304": {
+        "filename": "IndexBasis.code",
+        "line": 59
+      },
+      "312": {
+        "filename": "IndexBasis.code",
+        "line": 60
+      },
+      "320": {
+        "filename": "IndexBasis.code",
+        "line": 61
+      },
+      "344": {
+        "filename": "IndexBasis.code",
+        "line": 62
+      },
+      "352": {
+        "filename": "IndexBasis.code",
+        "line": 63
+      },
+      "360": {
+        "filename": "IndexBasis.code",
+        "line": 64
+      },
+      "408": {
+        "filename": "IndexBasis.code",
+        "line": 65
+      },
+      "416": {
+        "filename": "IndexBasis.code",
+        "line": 66
+      },
+      "424": {
+        "filename": "IndexBasis.code",
+        "line": 67
+      },
+      "432": {
+        "filename": "IndexBasis.code",
+        "line": 68
+      },
+      "440": {
+        "filename": "IndexBasis.code",
+        "line": 70
+      },
+      "456": {
+        "filename": "IndexBasis.code",
+        "line": 71
+      },
+      "472": {
+        "filename": "IndexBasis.code",
+        "line": 72
+      },
+      "480": {
+        "filename": "IndexBasis.code",
+        "line": 73
+      },
+      "496": {
+        "filename": "IndexBasis.code",
+        "line": 74
+      },
+      "504": {
+        "filename": "IndexBasis.code",
+        "line": 75
+      },
+      "520": {
+        "filename": "IndexBasis.code",
+        "line": 76
+      },
+      "536": {
+        "filename": "IndexBasis.code",
+        "line": 77
+      },
+      "552": {
+        "filename": "IndexBasis.code",
+        "line": 78
+      },
+      "568": {
+        "filename": "IndexBasis.code",
+        "line": 79
+      },
+      "576": {
+        "filename": "IndexBasis.code",
+        "line": 80
+      },
+      "600": {
+        "filename": "IndexBasis.code",
+        "line": 81
+      },
+      "616": {
+        "filename": "IndexBasis.code",
+        "line": 82
+      },
+      "640": {
+        "filename": "IndexBasis.code",
+        "line": 83
+      },
+      "648": {
+        "filename": "IndexBasis.code",
+        "line": 84
+      },
+      "656": {
+        "filename": "IndexBasis.code",
+        "line": 85
+      },
+      "672": {
+        "filename": "IndexBasis.code",
+        "line": 86
+      },
+      "688": {
+        "filename": "IndexBasis.code",
+        "line": 87
+      },
+      "696": {
+        "filename": "IndexBasis.code",
+        "line": 88
+      },
+      "720": {
+        "filename": "IndexBasis.code",
+        "line": 89
+      },
+      "728": {
+        "filename": "IndexBasis.code",
+        "line": 90
+      },
+      "736": {
+        "filename": "IndexBasis.code",
+        "line": 91
+      },
+      "752": {
+        "filename": "IndexBasis.code",
+        "line": 92
+      },
+      "768": {
+        "filename": "IndexBasis.code",
+        "line": 93
+      },
+      "792": {
+        "filename": "IndexBasis.code",
+        "line": 94
+      },
+      "800": {
+        "filename": "IndexBasis.code",
+        "line": 95
+      },
+      "808": {
+        "filename": "IndexBasis.code",
+        "line": 96
+      },
+      "816": {
+        "filename": "IndexBasis.code",
+        "line": 97
+      },
+      "832": {
+        "filename": "IndexBasis.code",
+        "line": 98
+      },
+      "848": {
+        "filename": "IndexBasis.code",
+        "line": 100
+      },
+      "856": {
+        "filename": "IndexBasis.code",
+        "line": 101
+      },
+      "872": {
+        "filename": "IndexBasis.code",
+        "line": 102
+      },
+      "888": {
+        "filename": "IndexBasis.code",
+        "line": 105
+      }
+    }
+  }
+}

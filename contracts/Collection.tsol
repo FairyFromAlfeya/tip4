@@ -13,7 +13,6 @@ import "./TIP4_3/TIP4_3Collection.tsol";
 import "./access/OwnableInternal.tsol";
 
 contract Collection is TIP4_2Collection, TIP4_3Collection, IBurnableCollection, OwnableInternal {
-
 	uint64 static nonce_;
 
 	uint8 constant value_is_less_than_required = 104;
@@ -42,7 +41,7 @@ contract Collection is TIP4_2Collection, TIP4_3Collection, IBurnableCollection, 
 		_remainOnNft = remainOnNft;
 	}
 
-	function codeDepth() public view returns(uint16) {
+	function codeDepth() public view returns (uint16) {
         return (_buildNftCode(address(this)).depth());
 	}
 
@@ -51,12 +50,14 @@ contract Collection is TIP4_2Collection, TIP4_3Collection, IBurnableCollection, 
 			msg.value > _remainOnNft + _indexDeployValue * 2 + 0.3 ever,
 			value_is_less_than_required
 		);
+
 		tvm.rawReserve(1 ever, 0);
-		_mintNft(_owner, _json, 0, 128);
+
+		_mintNft(_owner, _json, 0, MsgFlag.ALL_NOT_RESERVED);
 	}
 
 	function totalMinted() external view responsible returns (uint256 count) {
-		return {value: 0, flag: 64, bounce: false} (_totalMinted);
+		return { value: 0, flag: MsgFlag.REMAINING_GAS, bounce: false } (_totalMinted);
 	}
 
 	function batchMintNft(address _owner, string[] _jsons) public virtual onlyOwner {
@@ -64,6 +65,7 @@ contract Collection is TIP4_2Collection, TIP4_3Collection, IBurnableCollection, 
 			msg.value > (_remainOnNft + 3 ever) * _jsons.length + 1 ever,
 			value_is_less_than_required
 		);
+
 		tvm.rawReserve(1 ever, 0);
 
 		for ((string _json) : _jsons) {
@@ -72,14 +74,13 @@ contract Collection is TIP4_2Collection, TIP4_3Collection, IBurnableCollection, 
 	}
 
 	function _mintNft(address owner, string json, uint128 value, uint16 flag) internal virtual {
-
 		uint256 id = uint256(_totalMinted);
 		_totalMinted++;
 		_totalSupply++;
 
 		TvmCell codeNft = _buildNftCode(address(this));
 		TvmCell stateNft = _buildNftState(codeNft, id);
-		address nftAddr = new Nft{stateInit: stateNft, value: value, flag: flag}(
+		address nftAddr = new Nft{ stateInit: stateNft, value: value, flag: flag }(
 			owner,
 			msg.sender,
 			_remainOnNft,
@@ -89,7 +90,13 @@ contract Collection is TIP4_2Collection, TIP4_3Collection, IBurnableCollection, 
 			_codeIndex
 		);
 
-		emit NftCreated(id, nftAddr, owner, owner, msg.sender);
+		emit NftCreated({
+			id: id,
+			nft: nftAddr,
+			owner: owner,
+			manager: owner,
+			creator: msg.sender
+		});
 	}
 
 	function setRemainOnNft(uint128 remainOnNft) external virtual onlyOwner {
@@ -103,7 +110,7 @@ contract Collection is TIP4_2Collection, TIP4_3Collection, IBurnableCollection, 
 		override (TIP4_2Collection, TIP4_3Collection)
 		returns (TvmCell)
 	{
-		return tvm.buildStateInit({contr: Nft, varInit: {_id: id}, code: code});
+		return tvm.buildStateInit({ contr: Nft, varInit: { _id: id }, code: code });
 	}
 
 	function resolveIndexCodeHash(address collection, address owner) public view returns (uint256 hash) {
@@ -122,26 +129,32 @@ contract Collection is TIP4_2Collection, TIP4_3Collection, IBurnableCollection, 
 		require(msg.sender.value != 0 && _resolveNft(_id) == msg.sender, 100);
 
 		_totalSupply--;
-		emit NftBurned(_id, msg.sender, _owner, _manager);
+		emit NftBurned({
+			id: _id,
+			nft: msg.sender,
+			owner: _owner,
+			manager: _manager
+		});
 
 		if (_callbackTo.value != 0) {
-			IAcceptNftBurnCallback(_callbackTo).onAcceptNftBurn{
-				value: 0,
-				flag: 64 + 2,
-				bounce: false
-			}(
-				address(this),
-				_id,
-				msg.sender,
-				_owner,
-				_manager,
-				_sendGasTo,
-				_callbackPayload
-			);
+			IAcceptNftBurnCallback(_callbackTo)
+				.onAcceptNftBurn{
+					value: 0,
+					flag: MsgFlag.REMAINING_GAS + MsgFlag.IGNORE_ERRORS,
+					bounce: false
+				}(
+					address(this),
+					_id,
+					msg.sender,
+					_owner,
+					_manager,
+					_sendGasTo,
+					_callbackPayload
+				);
 		} else {
 			_sendGasTo.transfer({
 				value: 0,
-				flag: 64 + 2,
+				flag: MsgFlag.REMAINING_GAS + MsgFlag.IGNORE_ERRORS,
 				bounce: false
 			});
 		}

@@ -1,6 +1,6 @@
 import { Migration } from "./migration";
+import { Command } from "commander";
 
-const { Command } = require("commander");
 const program = new Command();
 
 const migration = new Migration();

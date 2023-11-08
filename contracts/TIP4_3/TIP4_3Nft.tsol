@@ -6,15 +6,12 @@ pragma AbiHeader expire;
 pragma AbiHeader time;
 pragma AbiHeader pubkey;
 
-
 import '../TIP4_1/TIP4_1Nft.tsol';
 import './interfaces/ITIP4_3NFT.tsol';
 import './Index.tsol';
 
-
 /// This contract implement TIP4_1Collection, ITIP4_3NFT (add indexes)
 abstract contract TIP4_3Nft is TIP4_1Nft, ITIP4_3NFT {
-
     /// Values for deploy/destroy
     uint128 _indexDeployValue;
     uint128 _indexDestroyValue;
@@ -49,35 +46,17 @@ abstract contract TIP4_3Nft is TIP4_1Nft, ITIP4_3NFT {
     }
 
     function _beforeTransfer(
-        address to, 
-        address sendGasTo, 
-        mapping(address => CallbackParams) callbacks
+        address /*to*/,
+        address sendGasTo,
+        mapping(address => CallbackParams) /*callbacks*/
     ) internal virtual override {
         _destructIndex(sendGasTo);
     }
 
     function _afterTransfer(
-        address to, 
-        address sendGasTo, 
-        mapping(address => CallbackParams) callbacks
-    ) internal virtual override {
-        _deployIndex();
-    }
-
-    function _beforeChangeOwner(
-        address oldOwner, 
-        address newOwner,
-        address sendGasTo, 
-        mapping(address => CallbackParams) callbacks
-    ) internal virtual override {
-        _destructIndex(sendGasTo);
-    }   
-
-    function _afterChangeOwner(
-        address oldOwner, 
-        address newOwner,
-        address sendGasTo, 
-        mapping(address => CallbackParams) callbacks
+        address /*to*/,
+        address /*sendGasTo*/,
+        mapping(address => CallbackParams) /*callbacks*/
     ) internal virtual override {
         _deployIndex();
     }
@@ -85,26 +64,27 @@ abstract contract TIP4_3Nft is TIP4_1Nft, ITIP4_3NFT {
     function _deployIndex() internal virtual view {
         TvmCell codeIndexOwner = _buildIndexCode(address(0), _owner);
         TvmCell stateIndexOwner = _buildIndexState(codeIndexOwner, address(this));
-        new Index{stateInit: stateIndexOwner, value: _indexDeployValue}(_collection);
+        new Index{ stateInit: stateIndexOwner, value: _indexDeployValue }(_collection);
 
         TvmCell codeIndexOwnerRoot = _buildIndexCode(_collection, _owner);
         TvmCell stateIndexOwnerRoot = _buildIndexState(codeIndexOwnerRoot, address(this));
-        new Index{stateInit: stateIndexOwnerRoot, value: _indexDeployValue}(_collection);
+        new Index{ stateInit: stateIndexOwnerRoot, value: _indexDeployValue }(_collection);
     }
 
     function _destructIndex(address sendGasTo) internal virtual view {
         address oldIndexOwner = resolveIndex(address(0), _owner);
-        IIndex(oldIndexOwner).destruct{value: _indexDestroyValue}(sendGasTo);
+        IIndex(oldIndexOwner).destruct{ value: _indexDestroyValue }(sendGasTo);
+
         address oldIndexOwnerRoot = resolveIndex(_collection, _owner);
-        IIndex(oldIndexOwnerRoot).destruct{value: _indexDestroyValue}(sendGasTo);
+        IIndex(oldIndexOwnerRoot).destruct{ value: _indexDestroyValue }(sendGasTo);
     }
     
     function indexCode() external view override responsible returns (TvmCell code) {
-        return {value: 0, flag: 64, bounce: false} (_codeIndex);
+        return { value: 0, flag: MsgFlag.REMAINING_GAS, bounce: false } (_codeIndex);
     }
 
     function indexCodeHash() public view override responsible returns (uint256 hash) {
-        return {value: 0, flag: 64, bounce: false} tvm.hash(_codeIndex);
+        return { value: 0, flag: MsgFlag.REMAINING_GAS, bounce: false } tvm.hash(_codeIndex);
     }
 
     function resolveIndex(
@@ -115,7 +95,8 @@ abstract contract TIP4_3Nft is TIP4_1Nft, ITIP4_3NFT {
         TvmCell state = _buildIndexState(code, address(this));
         uint256 hashState = tvm.hash(state);
         index = address.makeAddrStd(address(this).wid, hashState);
-        return {value: 0, flag: 64, bounce: false} index;
+
+        return { value: 0, flag: MsgFlag.REMAINING_GAS, bounce: false } index;
     }
 
     function _buildIndexCode(
@@ -135,9 +116,8 @@ abstract contract TIP4_3Nft is TIP4_1Nft, ITIP4_3NFT {
     ) internal virtual pure returns (TvmCell) {
         return tvm.buildStateInit({
             contr: Index,
-            varInit: {_nft: nft},
+            varInit: { _nft: nft },
             code: code
         });
     }
-
 }
