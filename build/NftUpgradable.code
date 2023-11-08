@@ -131,7 +131,7 @@ CALLREF {
 }
 .loc ../contracts/abstract/NftUpgradableBase.tsol, 34
 ACCEPT
-.loc ../contracts/NftUpgradable.tsol, 29
+.loc ../contracts/NftUpgradable.tsol, 31
 ACCEPT
 .loc ../contracts/NftUpgradable.tsol, 0
 CALLREF {
@@ -141,7 +141,7 @@ THROW 0
 
 .internal-alias :onCodeUpgrade, 2
 .internal :onCodeUpgrade
-.loc ../contracts/NftUpgradable.tsol, 33
+.loc ../contracts/NftUpgradable.tsol, 35
 NEWDICT
 SETGLOB 10
 PUSHINT 0
@@ -170,16 +170,16 @@ PUSHREF {
 SETGLOB 18
 PUSHINT 0
 SETGLOB 19
-.loc ../contracts/NftUpgradable.tsol, 34
+.loc ../contracts/NftUpgradable.tsol, 36
 PUSHCONT {
-	.loc ../contracts/NftUpgradable.tsol, 37
+	.loc ../contracts/NftUpgradable.tsol, 39
 	DUP
 	CALLREF {
 		CALL $_upgradeFromVersion_780cb023_internal_macro$
 	}
 }
 PUSHCONT {
-	.loc ../contracts/NftUpgradable.tsol, 35
+	.loc ../contracts/NftUpgradable.tsol, 37
 	DUP
 	CALLREF {
 		CALL $_upgradeFromPlatform_6df7272b_internal_macro$
@@ -199,22 +199,22 @@ THROW 0
 CALL $_upgradeFromPlatform_6df7272b_internal_macro$
 
 .macro _upgradeFromPlatform_6df7272b_internal_macro
-.loc ../contracts/NftUpgradable.tsol, 42
+.loc ../contracts/NftUpgradable.tsol, 44
 CTOS
 LDMSGADDR
 LDREF
 LDREF
 ENDS
-.loc ../contracts/NftUpgradable.tsol, 47
+.loc ../contracts/NftUpgradable.tsol, 49
 ROT
 SETGLOB 12
-.loc ../contracts/NftUpgradable.tsol, 48
+.loc ../contracts/NftUpgradable.tsol, 50
 SWAP
 CTOS
 LDU 256
 ENDS
 SETGLOB 11
-.loc ../contracts/NftUpgradable.tsol, 49
+.loc ../contracts/NftUpgradable.tsol, 51
 CALLREF {
 	CALL $_init_58f8ee94_internal_macro$
 }
@@ -225,7 +225,7 @@ CALLREF {
 CALL $_upgradeFromVersion_780cb023_internal_macro$
 
 .macro _upgradeFromVersion_780cb023_internal_macro
-.loc ../contracts/NftUpgradable.tsol, 53
+.loc ../contracts/NftUpgradable.tsol, 55
 CTOS
 LDU 256
 LDMSGADDR
@@ -250,43 +250,43 @@ ROLLREV 10
 TUPLE 10
 SWAP
 ENDS
-.loc ../contracts/NftUpgradable.tsol, 54
+.loc ../contracts/NftUpgradable.tsol, 56
 DUP
 FIRST
 SETGLOB 11
-.loc ../contracts/NftUpgradable.tsol, 55
+.loc ../contracts/NftUpgradable.tsol, 57
 DUP
 SECOND
 SETGLOB 12
-.loc ../contracts/NftUpgradable.tsol, 56
+.loc ../contracts/NftUpgradable.tsol, 58
 DUP
 THIRD
 SETGLOB 13
-.loc ../contracts/NftUpgradable.tsol, 57
+.loc ../contracts/NftUpgradable.tsol, 59
 DUP
 INDEX 3
 SETGLOB 14
-.loc ../contracts/NftUpgradable.tsol, 58
+.loc ../contracts/NftUpgradable.tsol, 60
 DUP
 INDEX 4
 SETGLOB 15
-.loc ../contracts/NftUpgradable.tsol, 59
+.loc ../contracts/NftUpgradable.tsol, 61
 DUP
 INDEX 5
 SETGLOB 16
-.loc ../contracts/NftUpgradable.tsol, 60
+.loc ../contracts/NftUpgradable.tsol, 62
 DUP
 INDEX 6
 SETGLOB 17
-.loc ../contracts/NftUpgradable.tsol, 61
+.loc ../contracts/NftUpgradable.tsol, 63
 DUP
 INDEX 7
 SETGLOB 18
-.loc ../contracts/NftUpgradable.tsol, 62
+.loc ../contracts/NftUpgradable.tsol, 64
 DUP
 INDEX 8
 SETGLOB 19
-.loc ../contracts/NftUpgradable.tsol, 64
+.loc ../contracts/NftUpgradable.tsol, 66
 INDEX 9
 NEWC
 STSLICECONST x42_
@@ -307,7 +307,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/NftUpgradable.tsol, 71
+.loc ../contracts/NftUpgradable.tsol, 73
 OVER
 PUSHCONT {
 	LDREF
@@ -345,16 +345,16 @@ GETGLOB 12
 SDEQ
 AND
 THROWIFNOT 100
-.loc ../contracts/NftUpgradable.tsol, 79
+.loc ../contracts/NftUpgradable.tsol, 82
 PUSHINT 0
 PUSHINT 4
 RAWRESERVE
-.loc ../contracts/NftUpgradable.tsol, 80
+.loc ../contracts/NftUpgradable.tsol, 83
 GETGLOB 19
 PUSH S2
 EQUAL
 PUSHCONT {
-	.loc ../contracts/NftUpgradable.tsol, 81
+	.loc ../contracts/NftUpgradable.tsol, 84
 	DUP
 	NEWC
 	STSLICECONST x42_
@@ -366,7 +366,7 @@ PUSHCONT {
 	SENDRAWMSG
 }
 PUSHCONT {
-	.loc ../contracts/NftUpgradable.tsol, 87
+	.loc ../contracts/NftUpgradable.tsol, 90
 	PUSH2 S0, S1
 	GETGLOB 19
 	PUSHSLICE xc000000000000000000000000063a16a2a
@@ -378,7 +378,7 @@ PUSHCONT {
 	ENDC
 	PUSHINT 0
 	SENDRAWMSG
-	.loc ../contracts/NftUpgradable.tsol, 88
+	.loc ../contracts/NftUpgradable.tsol, 91
 	GETGLOB 11
 	GETGLOB 12
 	GETGLOB 13
@@ -413,10 +413,10 @@ PUSHCONT {
 	STBREFR
 	STBREFR
 	ENDC
-	.loc ../contracts/NftUpgradable.tsol, 103
+	.loc ../contracts/NftUpgradable.tsol, 106
 	PUSH S3
 	SETCODE
-	.loc ../contracts/NftUpgradable.tsol, 104
+	.loc ../contracts/NftUpgradable.tsol, 107
 	PUSH S3
 	CTOS
 	DUP
@@ -431,7 +431,7 @@ PUSHCONT {
 	CTOS
 	BLESS
 	POP C3
-	.loc ../contracts/NftUpgradable.tsol, 106
+	.loc ../contracts/NftUpgradable.tsol, 109
 	TRUE
 	CALLREF {
 		CALL $:onCodeUpgrade$

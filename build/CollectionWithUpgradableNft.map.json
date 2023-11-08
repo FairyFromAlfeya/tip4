@@ -1117,63 +1117,63 @@
       },
       "152": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 306
+        "line": 308
       },
       "160": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 306
+        "line": 308
       },
       "176": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 306
+        "line": 308
       },
       "184": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 306
+        "line": 308
       },
       "192": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "200": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "208": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "232": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "240": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "256": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "272": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "280": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "296": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 307
+        "line": 309
       },
       "312": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "320": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "336": {
         "filename": "CollectionWithUpgradableNft.code",
@@ -4692,8 +4692,8 @@
     },
     "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
       "0": {
-        "filename": "../contracts/CollectionWithUpgradableNft.tsol",
-        "line": 75
+        "filename": "CollectionWithUpgradableNft.code",
+        "line": 4175
       }
     },
     "61c809bff661698c2a4e13ff6c764d161c063b90d230c31faf05915819329df1": {
@@ -7712,175 +7712,175 @@
     "a3d4e3426499dab3c7c101dba24ce0c0ef1b4566f92083c89e3101d72205080f": {
       "0": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "8": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "24": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "40": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "56": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "72": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "80": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "88": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "112": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "128": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "152": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "160": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "168": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "192": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "208": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "216": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "264": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "272": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "288": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "296": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "304": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "312": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "328": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 313
+        "line": 315
       },
       "344": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "352": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "368": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "384": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "392": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "400": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "408": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "416": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "432": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "440": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "488": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "504": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "520": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "528": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "536": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "544": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "552": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "560": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "568": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       },
       "576": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 318
+        "line": 322
       }
     },
     "a3dc3f8c0e0a02b72c4490a88120eb1ecdd152cbec230163733c1186b205294d": {
@@ -9248,103 +9248,103 @@
       },
       "560": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "576": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "592": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "608": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "624": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "640": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "656": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "672": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "680": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "688": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "696": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "704": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "720": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "728": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "776": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "792": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "808": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "816": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "824": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "832": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "840": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "848": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "856": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "864": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "872": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 278
+        "line": 280
       },
       "888": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
@@ -10572,51 +10572,51 @@
       },
       "88": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "96": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "104": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "120": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "128": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "136": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "144": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "152": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "168": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "176": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "192": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "208": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 297
+        "line": 299
       },
       "216": {
         "filename": "CollectionWithUpgradableNft.code",
@@ -11796,119 +11796,119 @@
       },
       "488": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 281
+        "line": 283
       },
       "496": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 281
+        "line": 283
       },
       "504": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 281
+        "line": 283
       },
       "512": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 281
+        "line": 283
       },
       "528": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "544": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "560": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "568": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "576": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "600": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "616": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "640": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "648": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "656": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "680": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "688": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "696": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "744": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "752": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "768": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "776": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "792": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "808": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "824": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "832": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 282
+        "line": 284
       },
       "848": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "856": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "864": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "880": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "896": {
         "filename": "CollectionWithUpgradableNft.code",
@@ -12216,27 +12216,27 @@
     "ef0d36e99f338dab9f5f46d9eccbb9ca618db370ac29019afc63e946ba187d09": {
       "0": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "16": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "24": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "48": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "56": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       },
       "72": {
         "filename": "../contracts/abstract/CollectionUpgradableBase.tsol",
-        "line": 289
+        "line": 291
       }
     },
     "f0f862570b8c0c159cf1a4d6ad2262eab4e0b744e988a5c089b6cc1fd03c2020": {

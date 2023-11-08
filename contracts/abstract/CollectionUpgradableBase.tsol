@@ -3,13 +3,13 @@ pragma ever-solidity ^0.62.0;
 import "../interfaces/IAcceptNftBurnCallback.tsol";
 import "../interfaces/IBurnableCollection.tsol";
 
-import "../NftUpgradable.tsol";
 import "../TIP4_2/TIP4_2Collection.tsol";
 import "../TIP4_3/TIP4_3Collection.tsol";
 import "../access/OwnableInternal.tsol";
 import "../TIP4_6/platform/PlatformType.tsol";
 import "../TIP4_6/platform/Platform.tsol";
 import "../TIP4_6/interfaces/ITIP4_6Collection.tsol";
+import "../TIP4_6/interfaces/ITIP4_6Upgradable.tsol";
 
 abstract contract CollectionUpgradableBase is
 	TIP4_2Collection,
@@ -264,22 +264,24 @@ abstract contract CollectionUpgradableBase is
 	) external view onlyOwnerOrSelf {
 
 		offset = 0;
-		uint256 lenght = nfts.length;
-		uint256 takeUntil = math.min(offset + 5, lenght);
+		uint256 length = nfts.length;
+		uint256 takeUntil = math.min(offset + 5, length);
 		require(msg.value > takeUntil * 1 ever, value_is_less_than_required);
 
 		for (uint256 i = offset; i < takeUntil; i++) {
 
-			NftUpgradable(nfts[i]).upgrade{
-				value: 1 ever,
-				flag: 1,
-				bounce: false
-			}(_buildNftCode(address(this)), _nftVersion, msg.sender);
+			ITIP4_6Upgradable(nfts[i])
+				.upgrade{
+					value: 1 ever,
+					flag: 1,
+					bounce: false
+				}(_buildNftCode(address(this)), _nftVersion, msg.sender);
+
 			emit UpgradeNftRequested(_nftVersion, _nftVersion, nfts[i], owner());
 		}
 
-		if (takeUntil < lenght) {
-            CollectionWithUpgradableNft(address(this))
+		if (takeUntil < length) {
+            CollectionUpgradableBase(address(this))
                 .forceUpgradeNft{
                     value: 0,
                     flag: 64,
@@ -310,11 +312,13 @@ abstract contract CollectionUpgradableBase is
 				bounce: false
             });
 		} else {
-			NftUpgradable(msg.sender).upgrade{
-				value: 0,
-				flag: 64,
-				bounce: false
-			}(_buildNftCode(address(this)), _nftVersion, remainingGasTo);
+			ITIP4_6Upgradable(msg.sender)
+				.upgrade{
+					value: 0,
+					flag: 64,
+					bounce: false
+				}(_buildNftCode(address(this)), _nftVersion, remainingGasTo);
+
 			emit UpgradeNftRequested(currentNftVersion, _nftVersion,  msg.sender,  remainingGasTo);
 		}
 	}
