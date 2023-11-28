@@ -80,7 +80,7 @@ contract CollectionWithUpgradableNftTest is CollectionUpgradableBase, ICollectio
 		tvm.resetStorage();
 		tvm.rawReserve(1 ever, 0);
 
-		address remainingGasTo;
+//		address remainingGasTo;
 
 		CollectionUpgradeDataNext data = abi.decode(_data, CollectionUpgradeDataNext);
 

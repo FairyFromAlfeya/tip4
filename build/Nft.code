@@ -28,7 +28,7 @@ LDU 128
 LDREF
 ENDS
 BLKSWAP 3, 4
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 54
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 50
 MYCODE
 
 CALLREF {
@@ -102,34 +102,34 @@ CALLREF {
 	}
 	IFELSE
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 55
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 52
 DUP
 ISNULL
 THROWIF 101
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 56
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 54
 DUP
 ISNULL
 THROWIF 63
 CTOS
 LDMSGADDR
 DROP
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 57
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 56
 SETGLOB 12
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 58
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 57
 CALLREF {
 	CALL $_init4_1_094f8df3_internal_macro$
 }
 .loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
 ROLL 3
-.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 23
+.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 18
 CALLREF {
 	CALL $_init4_2_7c86c315_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 30
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 27
 CALLREF {
 	CALL $_init4_3_8f662628_internal_macro$
 }
-.loc ../contracts/Nft.tsol, 34
+.loc ../contracts/Nft.tsol, 31
 ACCEPT
 .loc ../contracts/Nft.tsol, 0
 CALLREF {
@@ -142,7 +142,7 @@ THROW 0
 CALL $_beforeTransfer_4721b701_internal_macro$
 
 .macro _beforeTransfer_4721b701_internal_macro
-.loc ../contracts/Nft.tsol, 42
+.loc ../contracts/Nft.tsol, 39
 DROP
 CALLREF {
 	CALL $_destructIndex_d3dd7d3c_internal_macro$
@@ -155,7 +155,7 @@ DROP
 CALL $_afterTransfer_41f289ae_internal_macro$
 
 .macro _afterTransfer_41f289ae_internal_macro
-.loc ../contracts/Nft.tsol, 50
+.loc ../contracts/Nft.tsol, 47
 BLKDROP 3
 CALLREF {
 	CALL $_deployIndex_367ac79d_internal_macro$
@@ -167,7 +167,7 @@ CALLREF {
 CALL $_beforeChangeOwner_14992e29_internal_macro$
 
 .macro _beforeChangeOwner_14992e29_internal_macro
-.loc ../contracts/Nft.tsol, 59
+.loc ../contracts/Nft.tsol, 56
 DROP
 CALLREF {
 	CALL $_destructIndex_d3dd7d3c_internal_macro$
@@ -180,11 +180,29 @@ DROP2
 CALL $_afterChangeOwner_4a7c15bb_internal_macro$
 
 .macro _afterChangeOwner_4a7c15bb_internal_macro
-.loc ../contracts/Nft.tsol, 68
+.loc ../contracts/Nft.tsol, 65
 BLKDROP 4
 CALLREF {
 	CALL $_deployIndex_367ac79d_internal_macro$
 }
+.loc ../contracts/Nft.tsol, 0
+
+.globl	_beforeChangeManager_98a59d63_internal
+.type	_beforeChangeManager_98a59d63_internal, @function
+CALL $_beforeChangeManager_98a59d63_internal_macro$
+
+.macro _beforeChangeManager_98a59d63_internal_macro
+.loc ../contracts/Nft.tsol, 74
+BLKDROP 4
+.loc ../contracts/Nft.tsol, 0
+
+.globl	_afterChangeManager_83a727c6_internal
+.type	_afterChangeManager_83a727c6_internal, @function
+CALL $_afterChangeManager_83a727c6_internal_macro$
+
+.macro _afterChangeManager_83a727c6_internal_macro
+.loc ../contracts/Nft.tsol, 83
+BLKDROP 4
 .loc ../contracts/Nft.tsol, 0
 
 .macro burn
@@ -196,7 +214,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/Nft.tsol, 71
+.loc ../contracts/Nft.tsol, 86
 OVER
 PUSHCONT {
 	LDREF
@@ -215,21 +233,20 @@ ENDS
 CALLREF {
 	CALL $burn_f1e96f29_internal_macro$
 }
-DROP
-CALLREF {
-	CALL $c7_to_c4$
+IFREF {
+	CALL $upd_only_time_in_c4$
 }
 THROW 0
 
 .macro burn_f1e96f29_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 319
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 337
 GETGLOB 9
 GETGLOB 14
 SDEQ
 THROWIFNOT 103
-.loc ../contracts/Nft.tsol, 76
+.loc ../contracts/Nft.tsol, 91
 ACCEPT
-.loc ../contracts/Nft.tsol, 77
+.loc ../contracts/Nft.tsol, 93
 XCHG S2
 GETGLOB 14
 GETGLOB 13
@@ -263,7 +280,9 @@ STBREFR
 STBREFR
 STBREFR
 ENDC
-PUSHINT 160
+PUSHPOW2 7
+ADDCONST 32
+UFITS 8
 SENDRAWMSG
 .loc ../contracts/Nft.tsol, 0
 
@@ -272,15 +291,15 @@ SENDRAWMSG
 CALL $_init4_3_8f662628_internal_macro$
 
 .macro _init4_3_8f662628_internal_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 38
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 35
 ROT
 SETGLOB 16
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 39
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 36
 SWAP
 SETGLOB 17
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 40
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 37
 SETGLOB 18
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 42
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 39
 GETGLOB 10
 PUSHINT 64331365
 PUSHINT 348956614
@@ -294,7 +313,7 @@ ROTREV
 PUSHINT 32
 DICTUSETB
 SETGLOB 10
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 48
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 45
 CALLREF {
 	CALL $_deployIndex_367ac79d_internal_macro$
 }
@@ -305,7 +324,7 @@ CALLREF {
 CALL $TIP4_3Nft__beforeTransfer_4721b701_macro$
 
 .macro TIP4_3Nft__beforeTransfer_4721b701_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 56
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 53
 DROP
 CALLREF {
 	CALL $_destructIndex_d3dd7d3c_internal_macro$
@@ -318,33 +337,8 @@ DROP
 CALL $TIP4_3Nft__afterTransfer_41f289ae_macro$
 
 .macro TIP4_3Nft__afterTransfer_41f289ae_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 64
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 61
 BLKDROP 3
-CALLREF {
-	CALL $_deployIndex_367ac79d_internal_macro$
-}
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 0
-
-.globl	TIP4_3Nft__beforeChangeOwner_14992e29
-.type	TIP4_3Nft__beforeChangeOwner_14992e29, @function
-CALL $TIP4_3Nft__beforeChangeOwner_14992e29_macro$
-
-.macro TIP4_3Nft__beforeChangeOwner_14992e29_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 73
-DROP
-CALLREF {
-	CALL $_destructIndex_d3dd7d3c_internal_macro$
-}
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 0
-DROP2
-
-.globl	TIP4_3Nft__afterChangeOwner_4a7c15bb
-.type	TIP4_3Nft__afterChangeOwner_4a7c15bb, @function
-CALL $TIP4_3Nft__afterChangeOwner_4a7c15bb_macro$
-
-.macro TIP4_3Nft__afterChangeOwner_4a7c15bb_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 82
-BLKDROP 4
 CALLREF {
 	CALL $_deployIndex_367ac79d_internal_macro$
 }
@@ -355,7 +349,7 @@ CALLREF {
 CALL $_deployIndex_367ac79d_internal_macro$
 
 .macro _deployIndex_367ac79d_internal_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 86
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 65
 PUSHREFSLICE {
 	.blob x8000000000000000000000000000000000000000000000000000000000000000001_
 }
@@ -363,12 +357,12 @@ GETGLOB 13
 CALLREF {
 	CALL $_buildIndexCode_0065688c_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 87
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 66
 MYADDR
 CALLREF {
 	CALL $_buildIndexState_27db62db_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 88
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 67
 GETGLOB 12
 XCPU S1, S0
 HASHCU
@@ -418,18 +412,18 @@ STBREFR
 ENDC
 PUSHINT 0
 SENDRAWMSG
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 90
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 69
 GETGLOB 12
 GETGLOB 13
 CALLREF {
 	CALL $_buildIndexCode_0065688c_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 91
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 70
 MYADDR
 CALLREF {
 	CALL $_buildIndexState_27db62db_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 92
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 71
 GETGLOB 12
 XCPU S1, S0
 HASHCU
@@ -486,7 +480,7 @@ SENDRAWMSG
 CALL $_destructIndex_d3dd7d3c_internal_macro$
 
 .macro _destructIndex_d3dd7d3c_internal_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 96
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 75
 PUSHREFSLICE {
 	.blob x8000000000000000000000000000000000000000000000000000000000000000001_
 }
@@ -494,7 +488,7 @@ GETGLOB 13
 CALLREF {
 	CALL $resolveIndex_41ff09db_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 97
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 76
 OVER
 GETGLOB 17
 ROT
@@ -513,13 +507,13 @@ STBREFR
 ENDC
 PUSHINT 0
 SENDRAWMSG
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 98
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 78
 GETGLOB 12
 GETGLOB 13
 CALLREF {
 	CALL $resolveIndex_41ff09db_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 99
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 79
 SWAP
 GETGLOB 17
 ROT
@@ -549,7 +543,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 102
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 82
 LDU 32
 GETGLOB 4
 ROT
@@ -612,7 +606,7 @@ IFREF {
 THROW 0
 
 .macro indexCode_aee52235_internal_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 103
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 83
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -633,7 +627,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 106
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 86
 LDU 32
 GETGLOB 4
 ROT
@@ -703,7 +697,7 @@ THROW 0
 CALL $indexCodeHash_bbb6b582_internal_macro$
 
 .macro indexCodeHash_bbb6b582_internal_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 107
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 87
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -725,7 +719,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 110
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 90
 LDU 32
 GETGLOB 4
 ROT
@@ -811,18 +805,18 @@ THROW 0
 CALL $resolveIndex_41ff09db_internal_macro$
 
 .macro resolveIndex_41ff09db_internal_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 114
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 94
 CALLREF {
 	CALL $_buildIndexCode_0065688c_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 115
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 95
 MYADDR
 CALLREF {
 	CALL $_buildIndexState_27db62db_internal_macro$
 }
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 116
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 96
 HASHCU
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 117
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 97
 MYADDR
 PARSEMSGADDR
 THIRD
@@ -832,7 +826,7 @@ STI 8
 STU 256
 ENDC
 CTOS
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 118
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 99
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -848,18 +842,18 @@ SETGLOB 4
 CALL $_buildIndexCode_0065688c_internal_macro$
 
 .macro _buildIndexCode_0065688c_internal_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 126
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 107
 PUSHREF {
 	.blob x6e6674
 }
 NEWC
 STREF
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 127
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 108
 XCHG S1, S2
 STSLICE
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 128
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 109
 STSLICE
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 129
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 110
 GETGLOB 18
 CTOS
 SWAP
@@ -976,7 +970,7 @@ CALLREF {
 CALL $_buildIndexState_27db62db_internal_macro$
 
 .macro _buildIndexState_27db62db_internal_macro
-.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 136
+.loc ../contracts/TIP4_3/TIP4_3Nft.tsol, 117
 PUSHINT 0
 NEWC
 STU 256
@@ -1006,9 +1000,9 @@ ENDC
 CALL $_init4_2_7c86c315_internal_macro$
 
 .macro _init4_2_7c86c315_internal_macro
-.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 27
+.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 22
 SETGLOB 15
-.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 28
+.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 24
 PUSHINT 618124789
 GETGLOB 10
 NEWC
@@ -1028,7 +1022,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 34
+.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 28
 LDU 32
 GETGLOB 4
 ROT
@@ -1091,7 +1085,7 @@ IFREF {
 THROW 0
 
 .macro getJson_f703db39_internal_macro
-.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 35
+.loc ../contracts/TIP4_2/TIP4_2Nft.tsol, 29
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -1108,31 +1102,31 @@ GETGLOB 15
 CALL $_init4_1_094f8df3_internal_macro$
 
 .macro _init4_1_094f8df3_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 63
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 62
 GETGLOB 9
 GETGLOB 12
 SDEQ
 THROWIFNOT 102
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 64
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 63
 DUP
 THROWIFNOT 101
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 65
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 64
 DEPTH
 ADDCONST -2
 PICK
 OVER
 GREATER
 THROWIFNOT 104
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 67
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 66
 PUSHINT 0
 RAWRESERVE
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 69
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 68
 OVER
 SETGLOB 13
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 70
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 69
 SWAP
 SETGLOB 14
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 72
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 71
 PUSHINT 839183401
 GETGLOB 10
 NEWC
@@ -1142,7 +1136,7 @@ PUSHINT 32
 DICTUSETB
 DUP
 SETGLOB 10
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 73
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 72
 PUSHINT 297752426
 PUSHINT 1904151404
 XOR
@@ -1157,7 +1151,7 @@ ROTREV
 PUSHINT 32
 DICTUSETB
 SETGLOB 10
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 81
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 79
 GETGLOB 12
 GETGLOB 14
 GETGLOB 13
@@ -1182,14 +1176,16 @@ STBREFR
 ENDC
 PUSHINT 0
 SENDRAWMSG
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 83
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 86
 NEWC
 STSLICECONST x62_
 STSLICE
 PUSHINT 111
 STZEROES
 ENDC
-PUSHINT 130
+PUSHPOW2 7
+ADDCONST 2
+UFITS 8
 SENDRAWMSG
 .loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
 
@@ -1202,7 +1198,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 100
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 106
 OVER
 PUSHCONT {
 	LDREF
@@ -1232,38 +1228,38 @@ THROW 0
 CALL $transfer_8949bc6b_internal_macro$
 
 .macro transfer_8949bc6b_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 319
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 337
 GETGLOB 9
 GETGLOB 14
 SDEQ
 THROWIFNOT 103
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 105
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 111
 PUSHINT 0
 PUSHINT 4
 RAWRESERVE
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 107
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 113
 BLKPUSH 3, 2
 CALLREF {
 	CALL $_beforeTransfer_4721b701_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 109
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 115
 GETGLOB 13
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 110
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 116
 PUSH S3
 CALLREF {
 	CALL $_changeOwner_99fc451f_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 111
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 117
 PUSH S3
 CALLREF {
 	CALL $_changeManager_68db239d_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 113
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 119
 BLKPUSH 3, 3
 CALLREF {
 	CALL $_afterTransfer_41f289ae_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 115
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 121
 XCPU S1, S0
 PUSHINT 267
 DICTMIN
@@ -1285,7 +1281,7 @@ PUSHCONT {
 	NOT
 }
 PUSHCONT {
-	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 116
+	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 122
 	DUP
 	SECOND
 	PUSH S6
@@ -1357,13 +1353,13 @@ IFREFELSE {
 }
 WHILE
 BLKDROP 5
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 123
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 139
 DUP
 PARSEMSGADDR
 INDEX 3
 PLDU 256
 PUSHCONT {
-	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 124
+	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 140
 	DUP
 	NEWC
 	STSLICECONST x42_
@@ -1371,7 +1367,9 @@ PUSHCONT {
 	PUSHINT 111
 	STZEROES
 	ENDC
-	PUSHINT 130
+	PUSHPOW2 7
+	ADDCONST 2
+	UFITS 8
 	SENDRAWMSG
 	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
 }
@@ -1388,7 +1386,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 146
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 162
 OVER
 PUSHCONT {
 	LDREF
@@ -1418,35 +1416,35 @@ THROW 0
 CALL $changeOwner_209c18eb_internal_macro$
 
 .macro changeOwner_209c18eb_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 319
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 337
 GETGLOB 9
 GETGLOB 14
 SDEQ
 THROWIFNOT 103
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 151
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 167
 PUSHINT 0
 PUSHINT 4
 RAWRESERVE
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 153
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 169
 GETGLOB 13
 BLKPUSH 3, 3
 CALLREF {
 	CALL $_beforeChangeOwner_14992e29_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 155
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 171
 GETGLOB 13
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 156
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 172
 PUSH S3
 CALLREF {
 	CALL $_changeOwner_99fc451f_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 158
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 174
 PUSH3 S0, S3, S2
 PUSH S4
 CALLREF {
 	CALL $_afterChangeOwner_4a7c15bb_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 160
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 176
 XCPU S1, S0
 PUSHINT 267
 DICTMIN
@@ -1468,7 +1466,7 @@ PUSHCONT {
 	NOT
 }
 PUSHCONT {
-	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 161
+	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 177
 	DUP
 	SECOND
 	PUSH S6
@@ -1535,13 +1533,13 @@ IFREFELSE {
 }
 WHILE
 BLKDROP 5
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 168
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 193
 DUP
 PARSEMSGADDR
 INDEX 3
 PLDU 256
 PUSHCONT {
-	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 169
+	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 194
 	DUP
 	NEWC
 	STSLICECONST x42_
@@ -1549,7 +1547,9 @@ PUSHCONT {
 	PUSHINT 111
 	STZEROES
 	ENDC
-	PUSHINT 130
+	PUSHPOW2 7
+	ADDCONST 2
+	UFITS 8
 	SENDRAWMSG
 	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
 }
@@ -1562,16 +1562,16 @@ DROP2
 CALL $_changeOwner_99fc451f_internal_macro$
 
 .macro _changeOwner_99fc451f_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 181
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 203
 GETGLOB 13
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 182
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 204
 OVER
 SETGLOB 13
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 183
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 206
 PUSH2 S0, S1
 SDEQ
 PUSHCONT {
-	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 184
+	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 207
 	DUP2
 	PUSHSLICE xc0000000000000000000000001
 	NEWC
@@ -1603,7 +1603,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 203
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 225
 OVER
 PUSHCONT {
 	LDREF
@@ -1629,35 +1629,35 @@ CALLREF {
 THROW 0
 
 .macro changeManager_ae63d46b_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 319
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 337
 GETGLOB 9
 GETGLOB 14
 SDEQ
 THROWIFNOT 103
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 208
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 230
 PUSHINT 0
 PUSHINT 4
 RAWRESERVE
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 210
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 232
 GETGLOB 14
 BLKPUSH 3, 3
 CALLREF {
 	CALL $_beforeChangeManager_98a59d63_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 212
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 234
 GETGLOB 14
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 213
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 235
 PUSH S3
 CALLREF {
 	CALL $_changeManager_68db239d_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 215
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 237
 PUSH3 S0, S3, S2
 PUSH S4
 CALLREF {
 	CALL $_afterChangeManager_83a727c6_internal_macro$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 217
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 239
 XCPU S1, S0
 PUSHINT 267
 DICTMIN
@@ -1679,7 +1679,7 @@ PUSHCONT {
 	NOT
 }
 PUSHCONT {
-	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 218
+	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 240
 	DUP
 	SECOND
 	PUSH S6
@@ -1746,13 +1746,13 @@ IFREFELSE {
 }
 WHILE
 BLKDROP 5
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 225
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 256
 DUP
 PARSEMSGADDR
 INDEX 3
 PLDU 256
 PUSHCONT {
-	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 226
+	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 257
 	DUP
 	NEWC
 	STSLICECONST x42_
@@ -1760,7 +1760,9 @@ PUSHCONT {
 	PUSHINT 111
 	STZEROES
 	ENDC
-	PUSHINT 130
+	PUSHPOW2 7
+	ADDCONST 2
+	UFITS 8
 	SENDRAWMSG
 	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
 }
@@ -1773,16 +1775,16 @@ DROP2
 CALL $_changeManager_68db239d_internal_macro$
 
 .macro _changeManager_68db239d_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 237
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 266
 GETGLOB 14
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 238
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 267
 OVER
 SETGLOB 14
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 239
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 269
 PUSH2 S0, S1
 SDEQ
 PUSHCONT {
-	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 240
+	.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 270
 	DUP2
 	PUSHSLICE xc0000000000000000000000001
 	NEWC
@@ -1814,7 +1816,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 252
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 282
 LDU 32
 GETGLOB 4
 ROT
@@ -1902,7 +1904,7 @@ IFREF {
 THROW 0
 
 .macro getInfo_5a9b0b89_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 258
+.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 288
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -1917,60 +1919,6 @@ GETGLOB 14
 GETGLOB 12
 .loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
 
-.globl	TIP4_1Nft__beforeTransfer_4721b701
-.type	TIP4_1Nft__beforeTransfer_4721b701, @function
-CALL $TIP4_1Nft__beforeTransfer_4721b701_macro$
-
-.macro TIP4_1Nft__beforeTransfer_4721b701_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 271
-BLKDROP 3
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
-
-.globl	TIP4_1Nft__afterTransfer_41f289ae
-.type	TIP4_1Nft__afterTransfer_41f289ae, @function
-CALL $TIP4_1Nft__afterTransfer_41f289ae_macro$
-
-.macro TIP4_1Nft__afterTransfer_41f289ae_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 279
-BLKDROP 3
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
-
-.globl	TIP4_1Nft__beforeChangeOwner_14992e29
-.type	TIP4_1Nft__beforeChangeOwner_14992e29, @function
-CALL $TIP4_1Nft__beforeChangeOwner_14992e29_macro$
-
-.macro TIP4_1Nft__beforeChangeOwner_14992e29_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 288
-BLKDROP 4
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
-
-.globl	TIP4_1Nft__afterChangeOwner_4a7c15bb
-.type	TIP4_1Nft__afterChangeOwner_4a7c15bb, @function
-CALL $TIP4_1Nft__afterChangeOwner_4a7c15bb_macro$
-
-.macro TIP4_1Nft__afterChangeOwner_4a7c15bb_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 297
-BLKDROP 4
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
-
-.globl	_beforeChangeManager_98a59d63_internal
-.type	_beforeChangeManager_98a59d63_internal, @function
-CALL $_beforeChangeManager_98a59d63_internal_macro$
-
-.macro _beforeChangeManager_98a59d63_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 306
-BLKDROP 4
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
-
-.globl	_afterChangeManager_83a727c6_internal
-.type	_afterChangeManager_83a727c6_internal, @function
-CALL $_afterChangeManager_83a727c6_internal_macro$
-
-.macro _afterChangeManager_83a727c6_internal_macro
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 315
-BLKDROP 4
-.loc ../contracts/TIP4_1/TIP4_1Nft.tsol, 0
-
 .macro supportsInterface
 DROP
 GETGLOB 6
@@ -1980,7 +1928,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/TIP6/TIP6.tsol, 13
+.loc ../contracts/TIP6/TIP6.tsol, 14
 LDU 32
 GETGLOB 4
 ROT
@@ -2044,7 +1992,7 @@ IFREF {
 THROW 0
 
 .macro supportsInterface_01ffc9a7_internal_macro
-.loc ../contracts/TIP6/TIP6.tsol, 22
+.loc ../contracts/TIP6/TIP6.tsol, 21
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2

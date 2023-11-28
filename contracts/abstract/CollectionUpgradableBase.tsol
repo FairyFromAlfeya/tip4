@@ -282,21 +282,23 @@ abstract contract CollectionUpgradableBase is
 	) external view onlyOwnerOrSelf {
 
 		offset = 0;
-		uint256 lenght = nfts.length;
-		uint256 takeUntil = math.min(offset + 5, lenght);
+		uint256 length = nfts.length;
+		uint256 takeUntil = math.min(offset + 5, length);
 		require(msg.value > takeUntil * 1 ever, value_is_less_than_required);
 
 		for (uint256 i = offset; i < takeUntil; i++) {
 
-			INftUpgradable(nfts[i]).upgrade{
-				value: 1 ever,
-				flag: 1,
-				bounce: false
-			}(_buildNftCode(address(this)), _nftVersion, msg.sender);
+			INftUpgradable(nfts[i])
+				.upgrade{
+					value: 1 ever,
+					flag: 1,
+					bounce: false
+				}(_buildNftCode(address(this)), _nftVersion, msg.sender);
+
 			emit UpgradeNftRequested(_nftVersion, _nftVersion, nfts[i], owner());
 		}
 
-		if (takeUntil < lenght) {
+		if (takeUntil < length) {
             CollectionUpgradableBase(address(this))
                 .forceUpgradeNft{
                     value: 0,
@@ -328,11 +330,13 @@ abstract contract CollectionUpgradableBase is
 				bounce: false
             });
 		} else {
-			INftUpgradable(msg.sender).upgrade{
-				value: 0,
-				flag: 64,
-				bounce: false
-			}(_buildNftCode(address(this)), _nftVersion, remainingGasTo);
+			INftUpgradable(msg.sender)
+				.upgrade{
+					value: 0,
+					flag: 64,
+					bounce: false
+				}(_buildNftCode(address(this)), _nftVersion, remainingGasTo);
+
 			emit UpgradeNftRequested(currentNftVersion, _nftVersion,  msg.sender,  remainingGasTo);
 		}
 	}

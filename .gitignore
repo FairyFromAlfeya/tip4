@@ -2,6 +2,7 @@ node_modules/
 .idea/
 .env
 migration-log.json
+.cache
 
 deployments/
 

@@ -1,0 +1,1043 @@
+{
+  "map": {
+    "116ecea98073a22c3f0c8274e2ad18edb849ceb18f4ce94834e82298b8463cb0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "2607929069284a4e264df967958b75857cb3f463995cb0386bc125cb12fe4e8c": {
+      "4": {
+        "filename": "Platform.code",
+        "line": 99
+      },
+      "12": {
+        "filename": "Platform.code",
+        "line": 101
+      },
+      "28": {
+        "filename": "Platform.code",
+        "line": 104
+      },
+      "44": {
+        "filename": "Platform.code",
+        "line": 105
+      }
+    },
+    "34991383855855a1c15fd211ec1ce896d05a16301b15e3b404ad05cedc0d8afb": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 158
+      }
+    },
+    "468e1cf33f9f6689116e6d4533aaf68d8111a00722dbff81001a11c78382c57e": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 108
+      },
+      "16": {
+        "filename": "Platform.code",
+        "line": 109
+      },
+      "24": {
+        "filename": "Platform.code",
+        "line": 110
+      },
+      "40": {
+        "filename": "Platform.code",
+        "line": 111
+      },
+      "56": {
+        "filename": "Platform.code",
+        "line": 112
+      },
+      "72": {
+        "filename": "Platform.code",
+        "line": 113
+      },
+      "80": {
+        "filename": "Platform.code",
+        "line": 114
+      },
+      "96": {
+        "filename": "Platform.code",
+        "line": 115
+      },
+      "112": {
+        "filename": "Platform.code",
+        "line": 116
+      },
+      "120": {
+        "filename": "Platform.code",
+        "line": 117
+      },
+      "128": {
+        "filename": "Platform.code",
+        "line": 118
+      },
+      "144": {
+        "filename": "Platform.code",
+        "line": 119
+      },
+      "160": {
+        "filename": "Platform.code",
+        "line": 120
+      },
+      "176": {
+        "filename": "Platform.code",
+        "line": 121
+      },
+      "192": {
+        "filename": "Platform.code",
+        "line": 122
+      }
+    },
+    "4f472304c0a6342285d645a6b528b2d085581f0b84cee0a26606d7ccbffe6397": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 245
+      },
+      "16": {
+        "filename": "Platform.code",
+        "line": 246
+      },
+      "24": {
+        "filename": "Platform.code",
+        "line": 247
+      },
+      "40": {
+        "filename": "Platform.code",
+        "line": 248
+      },
+      "56": {
+        "filename": "Platform.code",
+        "line": 249
+      },
+      "72": {
+        "filename": "Platform.code",
+        "line": 250
+      },
+      "80": {
+        "filename": "Platform.code",
+        "line": 253
+      },
+      "96": {
+        "filename": "Platform.code",
+        "line": 254
+      },
+      "104": {
+        "filename": "Platform.code",
+        "line": 255
+      },
+      "120": {
+        "filename": "Platform.code",
+        "line": 258
+      },
+      "136": {
+        "filename": "Platform.code",
+        "line": 259
+      },
+      "144": {
+        "filename": "Platform.code",
+        "line": 260
+      },
+      "160": {
+        "filename": "Platform.code",
+        "line": 261
+      },
+      "176": {
+        "filename": "Platform.code",
+        "line": 262
+      },
+      "192": {
+        "filename": "Platform.code",
+        "line": 263
+      },
+      "200": {
+        "filename": "Platform.code",
+        "line": 264
+      },
+      "216": {
+        "filename": "Platform.code",
+        "line": 265
+      },
+      "224": {
+        "filename": "Platform.code",
+        "line": 266
+      },
+      "240": {
+        "filename": "Platform.code",
+        "line": 267
+      },
+      "248": {
+        "filename": "Platform.code",
+        "line": 268
+      },
+      "256": {
+        "filename": "Platform.code",
+        "line": 269
+      },
+      "272": {
+        "filename": "Platform.code",
+        "line": 270
+      },
+      "280": {
+        "filename": "Platform.code",
+        "line": 271
+      },
+      "288": {
+        "filename": "Platform.code",
+        "line": 273
+      },
+      "296": {
+        "filename": "Platform.code",
+        "line": 274
+      },
+      "304": {
+        "filename": "Platform.code",
+        "line": 275
+      },
+      "320": {
+        "filename": "Platform.code",
+        "line": 277
+      },
+      "328": {
+        "filename": "Platform.code",
+        "line": 278
+      },
+      "344": {
+        "filename": "Platform.code",
+        "line": 279
+      },
+      "360": {
+        "filename": "Platform.code",
+        "line": 281
+      },
+      "368": {
+        "filename": "Platform.code",
+        "line": 282
+      },
+      "384": {
+        "filename": "Platform.code",
+        "line": 283
+      },
+      "392": {
+        "filename": "Platform.code",
+        "line": 284
+      },
+      "408": {
+        "filename": "Platform.code",
+        "line": 286
+      },
+      "416": {
+        "filename": "Platform.code",
+        "line": 287
+      },
+      "432": {
+        "filename": "Platform.code",
+        "line": 288
+      },
+      "440": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "456": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "464": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "496": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "512": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "536": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "544": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "584": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "592": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "600": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "616": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "632": {
+        "filename": "Platform.code",
+        "line": 290
+      },
+      "648": {
+        "filename": "Platform.code",
+        "line": 291
+      },
+      "656": {
+        "filename": "Platform.code",
+        "line": 292
+      },
+      "672": {
+        "filename": "Platform.code",
+        "line": 293
+      },
+      "680": {
+        "filename": "Platform.code",
+        "line": 294
+      },
+      "696": {
+        "filename": "Platform.code",
+        "line": 295
+      },
+      "712": {
+        "filename": "Platform.code",
+        "line": 296
+      },
+      "720": {
+        "filename": "Platform.code",
+        "line": 297
+      },
+      "736": {
+        "filename": "Platform.code",
+        "line": 300
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 251
+      }
+    },
+    "632b37f4fd8dd589dac3dcae046301d8cba919b30efef2287f6c77d1aa6c6f34": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "6a327a369d153e9a5d2eb4c74ddd8f668bcf28ec042f7b4f560b8576e22e2581": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 210
+      },
+      "16": {
+        "filename": "Platform.code",
+        "line": 211
+      },
+      "24": {
+        "filename": "Platform.code",
+        "line": 212
+      },
+      "40": {
+        "filename": "Platform.code",
+        "line": 213
+      },
+      "56": {
+        "filename": "Platform.code",
+        "line": 214
+      },
+      "72": {
+        "filename": "Platform.code",
+        "line": 215
+      },
+      "80": {
+        "filename": "Platform.code",
+        "line": 216
+      },
+      "88": {
+        "filename": "Platform.code",
+        "line": 217
+      },
+      "104": {
+        "filename": "Platform.code",
+        "line": 218
+      },
+      "120": {
+        "filename": "Platform.code",
+        "line": 219
+      },
+      "128": {
+        "filename": "Platform.code",
+        "line": 220
+      },
+      "144": {
+        "filename": "Platform.code",
+        "line": 221
+      },
+      "168": {
+        "filename": "Platform.code",
+        "line": 222
+      },
+      "176": {
+        "filename": "Platform.code",
+        "line": 223
+      },
+      "184": {
+        "filename": "Platform.code",
+        "line": 224
+      },
+      "200": {
+        "filename": "Platform.code",
+        "line": 225
+      },
+      "216": {
+        "filename": "Platform.code",
+        "line": 229
+      },
+      "224": {
+        "filename": "Platform.code",
+        "line": 230
+      },
+      "248": {
+        "filename": "Platform.code",
+        "line": 231
+      },
+      "264": {
+        "filename": "Platform.code",
+        "line": 232
+      },
+      "272": {
+        "filename": "Platform.code",
+        "line": 233
+      },
+      "288": {
+        "filename": "Platform.code",
+        "line": 237
+      },
+      "296": {
+        "filename": "Platform.code",
+        "line": 238
+      },
+      "312": {
+        "filename": "Platform.code",
+        "line": 241
+      }
+    },
+    "780a3dc375d6d23593bcfc38e107e1b883adf0dc77a8fb78adfb5be6f27da122": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 178
+      },
+      "16": {
+        "filename": "Platform.code",
+        "line": 179
+      },
+      "32": {
+        "filename": "Platform.code",
+        "line": 180
+      },
+      "48": {
+        "filename": "Platform.code",
+        "line": 181
+      },
+      "64": {
+        "filename": "Platform.code",
+        "line": 182
+      },
+      "80": {
+        "filename": "Platform.code",
+        "line": 183
+      },
+      "88": {
+        "filename": "Platform.code",
+        "line": 184
+      },
+      "104": {
+        "filename": "Platform.code",
+        "line": 185
+      },
+      "120": {
+        "filename": "Platform.code",
+        "line": 186
+      },
+      "136": {
+        "filename": "Platform.code",
+        "line": 187
+      },
+      "144": {
+        "filename": "Platform.code",
+        "line": 188
+      },
+      "160": {
+        "filename": "Platform.code",
+        "line": 189
+      },
+      "168": {
+        "filename": "Platform.code",
+        "line": 190
+      },
+      "176": {
+        "filename": "Platform.code",
+        "line": 191
+      }
+    },
+    "8c74efd7efe21d67e1afc1720ef01d90045e32c1748ce36c2d1d690621e77b8c": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 125
+      },
+      "16": {
+        "filename": "Platform.code",
+        "line": 126
+      },
+      "24": {
+        "filename": "Platform.code",
+        "line": 127
+      },
+      "40": {
+        "filename": "Platform.code",
+        "line": 128
+      },
+      "56": {
+        "filename": "Platform.code",
+        "line": 129
+      },
+      "72": {
+        "filename": "Platform.code",
+        "line": 173
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "c5d17cd11793366eaf6bc26a40e1389b4db9b20bfcf722ecfa6cb53d8062fd19": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "Platform.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "Platform.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "Platform.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "Platform.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "Platform.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "Platform.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "Platform.code",
+        "line": 13
+      },
+      "96": {
+        "filename": "Platform.code",
+        "line": 14
+      },
+      "104": {
+        "filename": "Platform.code",
+        "line": 15
+      },
+      "112": {
+        "filename": "Platform.code",
+        "line": 16
+      },
+      "120": {
+        "filename": "Platform.code",
+        "line": 17
+      },
+      "128": {
+        "filename": "Platform.code",
+        "line": 18
+      },
+      "136": {
+        "filename": "Platform.code",
+        "line": 20
+      },
+      "144": {
+        "filename": "Platform.code",
+        "line": 21
+      },
+      "152": {
+        "filename": "Platform.code",
+        "line": 22
+      },
+      "160": {
+        "filename": "Platform.code",
+        "line": 24
+      },
+      "168": {
+        "filename": "Platform.code",
+        "line": 25
+      },
+      "184": {
+        "filename": "Platform.code",
+        "line": 26
+      },
+      "192": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "208": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "224": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "240": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "248": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "256": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "264": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "280": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "296": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "312": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "336": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "352": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "360": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 20
+      },
+      "376": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 24
+      },
+      "392": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "400": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "408": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "432": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "440": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "456": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "472": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "480": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "496": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "512": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "528": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "544": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 26
+      },
+      "552": {
+        "filename": "Platform.code",
+        "line": 91
+      },
+      "568": {
+        "filename": "Platform.code",
+        "line": 92
+      },
+      "584": {
+        "filename": "Platform.code",
+        "line": 95
+      }
+    },
+    "d558e53bf690afc8a76b8887a99a49a52db1bd24bec5da84780ea0e7bc0aad3f": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 139
+      }
+    },
+    "d7a1776765de05f92ec17ecc89f958eb9727b8059f6cff03161c049c95485c37": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 130
+      },
+      "8": {
+        "filename": "Platform.code",
+        "line": 131
+      },
+      "24": {
+        "filename": "Platform.code",
+        "line": 132
+      },
+      "32": {
+        "filename": "Platform.code",
+        "line": 133
+      },
+      "48": {
+        "filename": "Platform.code",
+        "line": 134
+      },
+      "56": {
+        "filename": "Platform.code",
+        "line": 135
+      },
+      "64": {
+        "filename": "Platform.code",
+        "line": 136
+      },
+      "80": {
+        "filename": "Platform.code",
+        "line": 137
+      },
+      "96": {
+        "filename": "Platform.code",
+        "line": 138
+      },
+      "112": {
+        "filename": "Platform.code",
+        "line": 143
+      },
+      "120": {
+        "filename": "Platform.code",
+        "line": 144
+      },
+      "128": {
+        "filename": "Platform.code",
+        "line": 145
+      },
+      "136": {
+        "filename": "Platform.code",
+        "line": 146
+      },
+      "152": {
+        "filename": "Platform.code",
+        "line": 147
+      },
+      "168": {
+        "filename": "Platform.code",
+        "line": 148
+      },
+      "184": {
+        "filename": "Platform.code",
+        "line": 149
+      },
+      "192": {
+        "filename": "Platform.code",
+        "line": 150
+      },
+      "216": {
+        "filename": "Platform.code",
+        "line": 152
+      },
+      "224": {
+        "filename": "Platform.code",
+        "line": 153
+      },
+      "232": {
+        "filename": "Platform.code",
+        "line": 154
+      },
+      "240": {
+        "filename": "Platform.code",
+        "line": 155
+      },
+      "256": {
+        "filename": "Platform.code",
+        "line": 156
+      },
+      "272": {
+        "filename": "Platform.code",
+        "line": 157
+      },
+      "288": {
+        "filename": "Platform.code",
+        "line": 161
+      },
+      "296": {
+        "filename": "Platform.code",
+        "line": 162
+      },
+      "312": {
+        "filename": "Platform.code",
+        "line": 163
+      },
+      "328": {
+        "filename": "Platform.code",
+        "line": 164
+      },
+      "344": {
+        "filename": "Platform.code",
+        "line": 165
+      },
+      "360": {
+        "filename": "Platform.code",
+        "line": 166
+      },
+      "376": {
+        "filename": "Platform.code",
+        "line": 167
+      },
+      "392": {
+        "filename": "Platform.code",
+        "line": 168
+      },
+      "416": {
+        "filename": "Platform.code",
+        "line": 169
+      },
+      "432": {
+        "filename": "Platform.code",
+        "line": 170
+      },
+      "440": {
+        "filename": "Platform.code",
+        "line": 171
+      }
+    },
+    "e8a4cba9a2a029706ac409a42d7b8c21033070de1bcf76babac94a2d788d7da2": {
+      "0": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 24
+      }
+    },
+    "f01d5ebb55e937810ffdb4d579522c8e9eb31bd91b8a65b4e5ba5b6254d4faf7": {
+      "0": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 21
+      },
+      "8": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 21
+      },
+      "24": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 21
+      },
+      "40": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 21
+      },
+      "48": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 21
+      },
+      "56": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 21
+      },
+      "64": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 21
+      },
+      "72": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 21
+      },
+      "80": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 22
+      },
+      "88": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 22
+      },
+      "104": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "112": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "120": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "128": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "168": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "184": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "192": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "208": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "216": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "224": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "240": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "248": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "264": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 23
+      },
+      "280": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 24
+      },
+      "288": {
+        "filename": "../contracts/TIP4_6/platform/Platform.tsol",
+        "line": 24
+      }
+    },
+    "f1549d027d4e1c17b435d796d0db9ec5b536c316facb51907ed516bb9abfa52a": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 303
+      },
+      "8": {
+        "filename": "Platform.code",
+        "line": 304
+      },
+      "56": {
+        "filename": "Platform.code",
+        "line": 305
+      },
+      "64": {
+        "filename": "Platform.code",
+        "line": 306
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "Platform.code",
+        "line": 226
+      },
+      "16": {
+        "filename": "Platform.code",
+        "line": 227
+      }
+    }
+  }
+}

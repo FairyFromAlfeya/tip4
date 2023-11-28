@@ -2,11 +2,9 @@
 /// You can use other versions, but we do not guarantee compatibility of the compiler version.
 pragma ever-solidity >= 0.62.0;
 
-
 pragma AbiHeader expire;
 pragma AbiHeader time;
 pragma AbiHeader pubkey;
-
 
 import './interfaces/ITIP4_1NFT.tsol';
 import './interfaces/INftChangeOwner.tsol';
@@ -16,11 +14,9 @@ import './interfaces/INftTransfer.tsol';
 import '../TIP6/TIP6.tsol';
 import "./structures/ICallbackParamsStructure.tsol";
 
-
 /// @title One of the required contracts of an TIP4-1(Non-Fungible Token Standard) compliant technology.
 /// For detect what interfaces a smart contract implements used TIP-6.1 standard.
 abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
-
     /**
     * Errors
     **/
@@ -43,7 +39,7 @@ abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
     /**
         @notice Initializes the contract by setting a `owner` to the NFT.
         Collection address get from the contract code that is "building" into Collection._buildNftCode, Collection._buildNftState
-        _supportedInterfaces mapping used in TIP-6 standart
+        _supportedInterfaces mapping used in TIP-6 standard
         Emit TokenMinted event
     */
     constructor(
@@ -52,8 +48,11 @@ abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
         uint128 remainOnNft
     ) public {
         optional(TvmCell) optSalt = tvm.codeSalt(tvm.code());
+
         require(optSalt.hasValue(), value_is_empty);
+
         (address collection) = optSalt.get().toSlice().decode(address);
+
         _collection = collection;
         _init4_1(owner, sendGasTo, remainOnNft);
     }
@@ -69,18 +68,25 @@ abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
         _owner = owner;
         _manager = owner;
 
-        _supportedInterfaces[ bytes4(tvm.functionId(ITIP6.supportsInterface)) ] = true;
+        _supportedInterfaces[bytes4(tvm.functionId(ITIP6.supportsInterface))] = true;
         _supportedInterfaces[
             bytes4(tvm.functionId(ITIP4_1NFT.getInfo)) ^
             bytes4(tvm.functionId(ITIP4_1NFT.changeOwner)) ^
             bytes4(tvm.functionId(ITIP4_1NFT.changeManager)) ^
             bytes4(tvm.functionId(ITIP4_1NFT.transfer))
-
         ] = true;
 
-        emit NftCreated(_id, _owner, _manager, _collection);
+        emit NftCreated({
+            id: _id,
+            owner: _owner,
+            manager: _manager,
+            collection: _collection
+        });
 
-        sendGasTo.transfer({value: 0, flag: 128 + 2});
+        sendGasTo.transfer({
+            value: 0,
+            flag: MsgFlag.ALL_NOT_RESERVED + MsgFlag.IGNORE_ERRORS
+        });
     }
 
     /// @notice Transfers ownership to another account (set new owner & manager)
@@ -113,17 +119,27 @@ abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
         _afterTransfer(to, sendGasTo, callbacks);
 
         for ((address dest, CallbackParams p) : callbacks) {
-            INftTransfer(dest).onNftTransfer{
-                value: p.value,
-                flag: 0 + 1,
-                bounce: false
-            }(_id, oldOwner, to, _manager, to, _collection, sendGasTo, p.payload);
+            INftTransfer(dest)
+                .onNftTransfer{
+                    value: p.value,
+                    flag: MsgFlag.SENDER_PAYS_FEES,
+                    bounce: false
+                }(
+                    _id,
+                    oldOwner,
+                    to,
+                    _manager,
+                    to,
+                    _collection,
+                    sendGasTo,
+                    p.payload
+                );
         }
 
         if (sendGasTo.value != 0) {
             sendGasTo.transfer({
                 value: 0,
-                flag: 128 + 2,
+                flag: MsgFlag.ALL_NOT_RESERVED + MsgFlag.IGNORE_ERRORS,
                 bounce: false
             });
         }
@@ -158,33 +174,39 @@ abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
         _afterChangeOwner(oldOwner, newOwner, sendGasTo, callbacks);
 
         for ((address dest, CallbackParams p) : callbacks) {
-            INftChangeOwner(dest).onNftChangeOwner{
-                value: p.value,
-                flag: 0 + 1,
-                bounce: false
-            }(_id, _manager, oldOwner, newOwner, _collection, sendGasTo, p.payload);
+            INftChangeOwner(dest)
+                .onNftChangeOwner{
+                    value: p.value,
+                    flag: MsgFlag.SENDER_PAYS_FEES,
+                    bounce: false
+                }(
+                    _id,
+                    _manager,
+                    oldOwner,
+                    newOwner,
+                    _collection,
+                    sendGasTo,
+                    p.payload
+                );
         }
 
         if (sendGasTo.value != 0) {
             sendGasTo.transfer({
                 value: 0,
-                flag: 128 + 2,
+                flag: MsgFlag.ALL_NOT_RESERVED + MsgFlag.IGNORE_ERRORS,
                 bounce: false
             });
         }
-
     }
 
-    function _changeOwner(
-        address newOwner
-    ) internal {
+    function _changeOwner(address newOwner) internal {
         address oldOwner = _owner;
         _owner = newOwner;
+
         if (oldOwner != newOwner) {
             emit OwnerChanged(oldOwner, newOwner);
         }
     }
-
 
     /// @notice Set a new manager
     /// @param newManager - future manager of the token
@@ -215,27 +237,35 @@ abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
         _afterChangeManager(oldManager, newManager, sendGasTo, callbacks);
 
         for ((address dest, CallbackParams p) : callbacks) {
-            INftChangeManager(dest).onNftChangeManager{
-                value: p.value,
-                flag: 0 + 1,
-                bounce: false
-            }(_id, _owner, oldManager, newManager, _collection, sendGasTo, p.payload);
+            INftChangeManager(dest)
+                .onNftChangeManager{
+                    value: p.value,
+                    flag: MsgFlag.SENDER_PAYS_FEES,
+                    bounce: false
+                }(
+                    _id,
+                    _owner,
+                    oldManager,
+                    newManager,
+                    _collection,
+                    sendGasTo,
+                    p.payload
+                );
         }
 
         if (sendGasTo.value != 0) {
             sendGasTo.transfer({
                 value: 0,
-                flag: 128 + 2,
+                flag: MsgFlag.ALL_NOT_RESERVED + MsgFlag.IGNORE_ERRORS,
                 bounce: false
             });
         }
     }
 
-    function _changeManager(
-        address newManager
-    ) internal {
+    function _changeManager(address newManager) internal {
         address oldManager = _manager;
         _manager = newManager;
+
         if (oldManager != newManager) {
             emit ManagerChanged(oldManager, newManager);
         }
@@ -249,13 +279,13 @@ abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
     ///
     /// Both internal message and external message can be called.
     /// In case of calling external message, you need to add the answerId = 0 parameter
-    function getInfo() external view virtual override responsible returns(
+    function getInfo() external view virtual override responsible returns (
         uint256 id,
         address owner,
         address manager,
-        address collection)
-    {
-        return {value: 0, flag: 64, bounce: false} (
+        address collection
+    ) {
+        return { value: 0, flag: MsgFlag.REMAINING_GAS, bounce: false } (
             _id,
             _owner,
             _manager,
@@ -267,53 +297,41 @@ abstract contract TIP4_1Nft is ITIP4_1NFT, TIP6 {
         address to,
         address sendGasTo,
         mapping(address => CallbackParams) callbacks
-    ) internal virtual {
-        to; sendGasTo; callbacks; //disable warnings
-    }
+    ) internal virtual;
 
     function _afterTransfer(
         address to,
         address sendGasTo,
         mapping(address => CallbackParams) callbacks
-    ) internal virtual {
-        to; sendGasTo; callbacks; //disable warnings
-    }
+    ) internal virtual;
 
     function _beforeChangeOwner(
         address oldOwner,
         address newOwner,
         address sendGasTo,
         mapping(address => CallbackParams) callbacks
-    ) internal virtual {
-        oldOwner; newOwner; sendGasTo; callbacks; //disable warnings
-    }
+    ) internal virtual;
 
     function _afterChangeOwner(
         address oldOwner,
         address newOwner,
         address sendGasTo,
         mapping(address => CallbackParams) callbacks
-    ) internal virtual {
-        oldOwner; newOwner; sendGasTo; callbacks; //disable warnings
-    }
+    ) internal virtual;
 
     function _beforeChangeManager(
         address oldManager,
         address newManager,
         address sendGasTo,
         mapping(address => CallbackParams) callbacks
-    ) internal virtual {
-        oldManager; newManager; sendGasTo; callbacks; //disable warnings
-    }
+    ) internal virtual;
 
     function _afterChangeManager(
         address oldManager,
         address newManager,
         address sendGasTo,
         mapping(address => CallbackParams) callbacks
-    ) internal virtual {
-        oldManager; newManager; sendGasTo; callbacks; //disable warnings
-    }
+    ) internal virtual;
 
     modifier onlyManager virtual {
         require(msg.sender == _manager, sender_is_not_manager);

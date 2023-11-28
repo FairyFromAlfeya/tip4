@@ -1,0 +1,7359 @@
+{
+  "map": {
+    "072d248ac560ec8260f18b33f8adcf236a9ef62cb1cb5f94657efba46b6e0d22": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 167
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 167
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 167
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 169
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 169
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 169
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 171
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 172
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 172
+      },
+      "192": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 174
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 174
+      },
+      "224": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 174
+      },
+      "240": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "256": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "280": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "296": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "304": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      }
+    },
+    "0bdfa124820a4895c1debe0070ee52e1adab28eb8cb93fd73e52c36f8a391ad4": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "8": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "56": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      }
+    },
+    "0fad4030399aa1e6dc687578b7959266a557aaaf498c6c16f0d025c882d7fe39": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "8": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "64": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "144": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "184": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "200": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "224": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "240": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "256": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "264": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "288": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "304": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "360": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "376": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "384": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "400": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "408": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "416": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "432": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "440": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "448": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "464": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "472": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "480": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "488": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "496": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "504": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "512": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "520": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "528": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "536": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "544": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "552": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "560": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "568": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 177
+      },
+      "584": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1649
+      },
+      "600": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1650
+      },
+      "624": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1651
+      },
+      "640": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1652
+      },
+      "648": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1653
+      },
+      "656": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1654
+      },
+      "672": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1656
+      },
+      "688": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1664
+      }
+    },
+    "14244789b95b8c5d057b57dc23d431dd1607d3cd2da21241dc9bed112f12da6a": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "16": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "32": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "136": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "160": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "168": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "176": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "184": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "208": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "224": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "240": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      },
+      "256": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 117
+      }
+    },
+    "14515302961e86694659a68249220ebe562d2777bf6f8d282c43eb6510690d19": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1943
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1944
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1945
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1946
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1947
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1948
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 282
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 282
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 282
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 282
+      },
+      "144": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 282
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 282
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1959
+      },
+      "184": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1962
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1963
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1964
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1965
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1966
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1967
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1968
+      },
+      "264": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1969
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1970
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1971
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1972
+      },
+      "312": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1973
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1974
+      },
+      "344": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1975
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1976
+      },
+      "368": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1977
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1978
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1979
+      },
+      "440": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1980
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1981
+      },
+      "456": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1982
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1983
+      },
+      "472": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1984
+      },
+      "480": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1985
+      },
+      "488": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1986
+      },
+      "496": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1987
+      },
+      "504": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1988
+      },
+      "512": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1989
+      },
+      "520": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1990
+      }
+    },
+    "167cbcddb50e29cce7c28a14df73bae947a561cc10d9c38c298a1e02278eb4e6": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "32": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "56": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "136": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "152": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "168": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "184": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "192": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      }
+    },
+    "19e57ca2ee15df1a6119f5330ed4b0b8b62e90be74c628898b6c3f5fe3052938": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "8": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "64": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "144": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "184": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "200": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "224": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "240": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "256": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "264": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "288": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "304": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "360": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "376": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "384": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "400": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "408": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "416": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "432": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "440": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "448": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "464": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "472": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "480": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "488": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "496": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "504": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "512": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "520": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "528": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "536": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "544": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "552": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "560": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "568": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 240
+      },
+      "584": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1862
+      },
+      "600": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1863
+      },
+      "624": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1864
+      },
+      "640": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1865
+      },
+      "648": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1866
+      },
+      "656": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1867
+      },
+      "672": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1869
+      },
+      "688": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1877
+      }
+    },
+    "1caa0cbffce79fc7914c3d3b82b8610414fafe83e06c50e011d7790974901049": {
+      "0": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 87
+      },
+      "16": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 87
+      }
+    },
+    "22a5562ff86f8e80dec0f62666dce5d4d6ee188732e2d1ecf2ec23a2ded26395": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "8": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "56": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "192": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "208": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "240": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "248": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "264": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "272": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "296": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "320": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "368": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "384": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "392": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "408": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "416": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "424": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "440": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "448": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "456": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "472": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "480": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "488": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "504": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "512": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "520": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "528": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "536": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "544": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "552": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "560": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "568": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "576": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "584": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "592": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "600": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "608": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "616": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 122
+      },
+      "632": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1469
+      },
+      "648": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1470
+      },
+      "672": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1471
+      },
+      "688": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1472
+      },
+      "696": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1473
+      },
+      "704": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1474
+      },
+      "720": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1476
+      },
+      "736": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1484
+      }
+    },
+    "24127baf977639a311cfec825810b35a695746dc8326413a4a9a053bab317cff": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 266
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 267
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 267
+      },
+      "40": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 269
+      },
+      "56": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 269
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 269
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "224": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "240": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "248": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "296": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "304": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "320": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "328": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "336": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "344": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "352": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "360": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 270
+      },
+      "376": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1938
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1940
+      }
+    },
+    "294312b7c056241044c166f10485aabf0d8a0f29462ef0973fabf9a4c9ac0167": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "16": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "56": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "136": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "152": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 69
+      },
+      "168": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 69
+      },
+      "184": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 69
+      },
+      "200": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 70
+      },
+      "216": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 70
+      },
+      "232": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "248": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "264": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "280": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "288": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "320": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "336": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "344": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "360": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "376": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "384": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "408": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "424": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "432": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "448": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "456": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "480": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "488": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "504": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "512": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "528": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "536": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "544": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "592": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "600": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "608": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "616": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      },
+      "624": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 71
+      }
+    },
+    "2981ccc6bf99971bec57b34c9c2b2a8e7ec0556af8936182ac77f692f3b40842": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "40": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1879
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1880
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 256
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 256
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 256
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 256
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 256
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "184": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "208": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "248": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "256": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "272": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "288": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "304": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 257
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1901
+      },
+      "328": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1903
+      }
+    },
+    "2d8462818428e77c1040b4d7dfce25f694f75cd7aca99c5389fc0ef55735ed83": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 107
+      }
+    },
+    "34b4b8fc7ffba398eb3aa8d64c1827a201874e155b22d9d2d9ef266277ee3adf": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 119
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "56": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "144": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 121
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1486
+      },
+      "176": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1487
+      },
+      "192": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 139
+      },
+      "200": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 139
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 139
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 139
+      },
+      "256": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 139
+      },
+      "272": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "280": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "288": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "320": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "336": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "352": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "360": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "376": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "392": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "408": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 140
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1508
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1510
+      }
+    },
+    "38a2c69c58ae48a28b2ed0f47ff4b646aa4966de109f97ec59000d1da0b57ce0": {
+      "0": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 74
+      },
+      "8": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 74
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 198
+      }
+    },
+    "3cdfb41333e3be6cf02032434ee33d5fe58ec9b74d8a0b5852a80483640555a8": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2316
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2317
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2318
+      },
+      "40": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2319
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2320
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2321
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2322
+      },
+      "88": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2323
+      },
+      "104": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2324
+      },
+      "120": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2325
+      },
+      "128": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2326
+      },
+      "144": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2327
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2328
+      },
+      "184": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2329
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2330
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2331
+      },
+      "248": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2332
+      },
+      "264": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2333
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2334
+      },
+      "288": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2335
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2336
+      },
+      "312": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2337
+      },
+      "328": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2338
+      },
+      "336": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2339
+      },
+      "344": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2340
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2341
+      },
+      "376": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2345
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2346
+      },
+      "408": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2347
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2348
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2349
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2353
+      },
+      "456": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2354
+      },
+      "472": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2357
+      }
+    },
+    "40f5c3d10da13b70863632787e691e1c26d66fe1e056d4c307224cf0feb804a5": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 62
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 62
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 62
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 62
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 63
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 63
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 64
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 64
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 64
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 64
+      },
+      "144": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 64
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 64
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 66
+      },
+      "184": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 66
+      },
+      "200": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 68
+      },
+      "208": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 68
+      },
+      "224": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 69
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 69
+      },
+      "248": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "296": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "320": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "336": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "344": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "360": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "376": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "384": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 71
+      },
+      "400": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "448": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "496": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "504": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "552": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "560": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "608": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "616": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "624": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "632": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "648": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "656": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "672": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "688": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 72
+      },
+      "704": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "720": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "736": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "752": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "768": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "888": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "896": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "904": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "920": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "928": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "976": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "992": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "1000": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "1008": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      }
+    },
+    "441e809919eead2cda2ffcbe0bff77a98d44dea160677d5a91a19bf0f23eb4ec": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2481
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2482
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2483
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2484
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2487
+      },
+      "88": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2488
+      },
+      "136": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2489
+      },
+      "144": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2490
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2493
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2494
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2495
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2496
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2499
+      },
+      "248": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2500
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2501
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2502
+      }
+    },
+    "44fbdc879efaba947a8ab2513b20b95759023cddab42dbc7042dba24cb16b26d": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1513
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1514
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1515
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1516
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1517
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1518
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "192": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "208": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 162
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1537
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1540
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1541
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1544
+      }
+    },
+    "4baeb65f4b4ce52c2294ac7544db1efd11e4cf7e176beae92ddc3fec1c2bf6f0": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 111
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 111
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 111
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 113
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 113
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 115
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 116
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 116
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 117
+      },
+      "184": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 117
+      },
+      "200": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 119
+      }
+    },
+    "541a449207e54c519139d8c098f549d69234c0e2acaa2932ec5e5eec8de380cd": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1325
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1326
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1327
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1328
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1329
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1330
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "192": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "208": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 106
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1349
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1352
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1353
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1356
+      }
+    },
+    "5424f823bcebb59b74e7ba1ac15b38febb2e1e22f975f1c5b5fd337660ca0c53": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 230
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 230
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 230
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 232
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 232
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 232
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 234
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 235
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 235
+      },
+      "192": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 237
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 237
+      },
+      "224": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 237
+      },
+      "240": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "256": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "280": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "296": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "304": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      }
+    },
+    "560547bbbe3d165fa881c09d8a852bea6391bf5c7f91a415edc756371b4d88d7": {
+      "0": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 49
+      },
+      "8": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 49
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 173
+      }
+    },
+    "57e392923d88819220df00f7bc357428e95ab3374cfa4b3b1ce167169a048152": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 846
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 847
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 848
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 849
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 850
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 851
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "160": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "168": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "176": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "184": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "192": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "200": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "208": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "224": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "232": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "240": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "248": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "264": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 90
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 874
+      },
+      "288": {
+        "filename": "NftWithRoyalty.code",
+        "line": 877
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 878
+      },
+      "312": {
+        "filename": "NftWithRoyalty.code",
+        "line": 879
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 880
+      },
+      "328": {
+        "filename": "NftWithRoyalty.code",
+        "line": 881
+      },
+      "344": {
+        "filename": "NftWithRoyalty.code",
+        "line": 882
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 883
+      },
+      "368": {
+        "filename": "NftWithRoyalty.code",
+        "line": 884
+      },
+      "376": {
+        "filename": "NftWithRoyalty.code",
+        "line": 885
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 886
+      },
+      "408": {
+        "filename": "NftWithRoyalty.code",
+        "line": 887
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 888
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 889
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 890
+      },
+      "456": {
+        "filename": "NftWithRoyalty.code",
+        "line": 891
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 892
+      },
+      "512": {
+        "filename": "NftWithRoyalty.code",
+        "line": 893
+      },
+      "520": {
+        "filename": "NftWithRoyalty.code",
+        "line": 894
+      },
+      "528": {
+        "filename": "NftWithRoyalty.code",
+        "line": 895
+      },
+      "536": {
+        "filename": "NftWithRoyalty.code",
+        "line": 896
+      },
+      "544": {
+        "filename": "NftWithRoyalty.code",
+        "line": 898
+      },
+      "560": {
+        "filename": "NftWithRoyalty.code",
+        "line": 899
+      },
+      "576": {
+        "filename": "NftWithRoyalty.code",
+        "line": 900
+      },
+      "584": {
+        "filename": "NftWithRoyalty.code",
+        "line": 901
+      },
+      "600": {
+        "filename": "NftWithRoyalty.code",
+        "line": 902
+      },
+      "608": {
+        "filename": "NftWithRoyalty.code",
+        "line": 903
+      },
+      "624": {
+        "filename": "NftWithRoyalty.code",
+        "line": 904
+      },
+      "640": {
+        "filename": "NftWithRoyalty.code",
+        "line": 905
+      },
+      "656": {
+        "filename": "NftWithRoyalty.code",
+        "line": 906
+      },
+      "672": {
+        "filename": "NftWithRoyalty.code",
+        "line": 907
+      },
+      "680": {
+        "filename": "NftWithRoyalty.code",
+        "line": 908
+      },
+      "704": {
+        "filename": "NftWithRoyalty.code",
+        "line": 909
+      },
+      "720": {
+        "filename": "NftWithRoyalty.code",
+        "line": 910
+      },
+      "744": {
+        "filename": "NftWithRoyalty.code",
+        "line": 911
+      },
+      "752": {
+        "filename": "NftWithRoyalty.code",
+        "line": 912
+      },
+      "760": {
+        "filename": "NftWithRoyalty.code",
+        "line": 913
+      },
+      "776": {
+        "filename": "NftWithRoyalty.code",
+        "line": 914
+      },
+      "792": {
+        "filename": "NftWithRoyalty.code",
+        "line": 915
+      },
+      "800": {
+        "filename": "NftWithRoyalty.code",
+        "line": 916
+      },
+      "824": {
+        "filename": "NftWithRoyalty.code",
+        "line": 917
+      },
+      "832": {
+        "filename": "NftWithRoyalty.code",
+        "line": 918
+      },
+      "840": {
+        "filename": "NftWithRoyalty.code",
+        "line": 919
+      },
+      "856": {
+        "filename": "NftWithRoyalty.code",
+        "line": 920
+      },
+      "872": {
+        "filename": "NftWithRoyalty.code",
+        "line": 921
+      },
+      "896": {
+        "filename": "NftWithRoyalty.code",
+        "line": 922
+      },
+      "904": {
+        "filename": "NftWithRoyalty.code",
+        "line": 923
+      },
+      "912": {
+        "filename": "NftWithRoyalty.code",
+        "line": 924
+      },
+      "920": {
+        "filename": "NftWithRoyalty.code",
+        "line": 925
+      },
+      "936": {
+        "filename": "NftWithRoyalty.code",
+        "line": 926
+      },
+      "952": {
+        "filename": "NftWithRoyalty.code",
+        "line": 928
+      },
+      "960": {
+        "filename": "NftWithRoyalty.code",
+        "line": 929
+      },
+      "976": {
+        "filename": "NftWithRoyalty.code",
+        "line": 930
+      },
+      "992": {
+        "filename": "NftWithRoyalty.code",
+        "line": 933
+      }
+    },
+    "59408759535868653296d809fecb7d7753d22864ed42d014f9628ed711e4c16a": {
+      "0": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "16": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "24": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "40": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "56": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "72": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "80": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "96": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "112": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "128": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "144": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "160": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "176": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "184": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      },
+      "208": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 21
+      }
+    },
+    "5a3814f9fdfe37a1573385e741324cdbb621dcea64bb814552d9134618c56cdd": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "8": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "40": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "56": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "64": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 79
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "144": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "184": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "200": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 86
+      }
+    },
+    "5b5d1f26535d379a7a809f5e67d4d2b8d7c045b27474db1187a664084374cae0": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2423
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2424
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2425
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2426
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2429
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2430
+      },
+      "128": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2431
+      },
+      "136": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2432
+      },
+      "152": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2435
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2436
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2437
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2438
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2441
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2442
+      },
+      "288": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2443
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2444
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2367
+      }
+    },
+    "661510a747d6c1d9478d69fcee161dae7d3a3197c02351316a8b586361a7bb15": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "56": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "136": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "152": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "160": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "192": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "208": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "216": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "224": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "232": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "264": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "280": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "296": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "320": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "352": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "360": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "368": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "376": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "384": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "400": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      }
+    },
+    "69a5a08a5100ed969fab78209c7a38bf44133665ae3193c80660d229b452511b": {
+      "0": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      },
+      "16": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      },
+      "24": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      },
+      "40": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      },
+      "56": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      },
+      "72": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      },
+      "80": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      },
+      "96": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      },
+      "112": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 29
+      }
+    },
+    "6bc3850d1353bb2a3264683249865f87b16f5c41852c676b4d5c61648405fdb6": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2195
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2196
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2197
+      },
+      "40": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2198
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2199
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2248
+      }
+    },
+    "6d39ca0644d9d6d8c3f35828f23ba83dcf445678a42e2da6217e155c3d254f20": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      }
+    },
+    "6d6abd82a1aa58a1333ff42b33020b375591d80ed715d13bf1d2a094f5a83d99": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "NftWithRoyalty.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "NftWithRoyalty.code",
+        "line": 13
+      },
+      "96": {
+        "filename": "NftWithRoyalty.code",
+        "line": 14
+      },
+      "104": {
+        "filename": "NftWithRoyalty.code",
+        "line": 15
+      },
+      "112": {
+        "filename": "NftWithRoyalty.code",
+        "line": 16
+      },
+      "120": {
+        "filename": "NftWithRoyalty.code",
+        "line": 18
+      },
+      "128": {
+        "filename": "NftWithRoyalty.code",
+        "line": 19
+      },
+      "144": {
+        "filename": "NftWithRoyalty.code",
+        "line": 20
+      },
+      "152": {
+        "filename": "NftWithRoyalty.code",
+        "line": 21
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 22
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 23
+      },
+      "184": {
+        "filename": "NftWithRoyalty.code",
+        "line": 24
+      },
+      "200": {
+        "filename": "NftWithRoyalty.code",
+        "line": 25
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 26
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 27
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 28
+      },
+      "248": {
+        "filename": "NftWithRoyalty.code",
+        "line": 29
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 30
+      },
+      "264": {
+        "filename": "NftWithRoyalty.code",
+        "line": 31
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 32
+      },
+      "288": {
+        "filename": "NftWithRoyalty.code",
+        "line": 33
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 34
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 35
+      },
+      "336": {
+        "filename": "NftWithRoyalty.code",
+        "line": 36
+      },
+      "352": {
+        "filename": "NftWithRoyalty.code",
+        "line": 37
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 38
+      },
+      "368": {
+        "filename": "NftWithRoyalty.code",
+        "line": 39
+      },
+      "384": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "400": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "416": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 52
+      },
+      "424": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 52
+      },
+      "432": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 52
+      },
+      "456": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 54
+      },
+      "464": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 54
+      },
+      "472": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 54
+      },
+      "488": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 54
+      },
+      "496": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 54
+      },
+      "512": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 54
+      },
+      "520": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 56
+      },
+      "536": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 57
+      },
+      "552": {
+        "filename": "NftWithRoyalty.code",
+        "line": 132
+      }
+    },
+    "73867e37ec1ffb9ecb087a37d71892215b0b805a73c127da219a28729084e2e0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "74baa21170dd6604abdb743358d16857862d540a991238ba19d4a2748dd86a33": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "40": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 176
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1666
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1667
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 193
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 193
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 193
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 193
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 193
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "184": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "208": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "248": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "256": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "272": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "288": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "304": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 194
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1688
+      },
+      "328": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1690
+      }
+    },
+    "7dd9240394edc6b2c734e9c3d2e01ccd8f46c5800152e5c23cb9277f47b19222": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2419
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2420
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2421
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2422
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2448
+      },
+      "88": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2449
+      },
+      "136": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2450
+      },
+      "144": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2451
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2477
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2478
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2479
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2480
+      }
+    },
+    "7e09de6014d13b7670fa24556a1d56f03925db94616e107415c472639c91ffdf": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2253
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2254
+      },
+      "32": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2255
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2256
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2257
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2258
+      },
+      "96": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2259
+      },
+      "112": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2260
+      },
+      "128": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2261
+      },
+      "144": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2262
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2263
+      },
+      "176": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2264
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2265
+      },
+      "200": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2266
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2267
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2268
+      },
+      "248": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2269
+      },
+      "264": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2270
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2271
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2272
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2273
+      },
+      "312": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2274
+      },
+      "328": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2275
+      },
+      "336": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2276
+      },
+      "344": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2277
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2278
+      },
+      "368": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2279
+      },
+      "376": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2280
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2281
+      },
+      "400": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2282
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2283
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2284
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2285
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2286
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2287
+      },
+      "480": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2288
+      },
+      "488": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2289
+      },
+      "496": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2290
+      },
+      "512": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2291
+      },
+      "520": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2292
+      },
+      "528": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2293
+      },
+      "536": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2294
+      },
+      "544": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2295
+      },
+      "552": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2296
+      },
+      "560": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2297
+      }
+    },
+    "7f9b24d6e718676f195ea003e8a8bba5cc8877d199da1a4dc3a10300a6329da2": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 754
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 755
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 756
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 757
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 758
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 759
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 86
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 86
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 86
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 86
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 86
+      },
+      "160": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 86
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 770
+      },
+      "184": {
+        "filename": "NftWithRoyalty.code",
+        "line": 773
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 774
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 775
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 776
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 777
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 778
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 779
+      },
+      "264": {
+        "filename": "NftWithRoyalty.code",
+        "line": 780
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 781
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 782
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 783
+      },
+      "312": {
+        "filename": "NftWithRoyalty.code",
+        "line": 784
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 785
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 786
+      },
+      "400": {
+        "filename": "NftWithRoyalty.code",
+        "line": 787
+      },
+      "408": {
+        "filename": "NftWithRoyalty.code",
+        "line": 788
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 790
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 791
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 792
+      },
+      "456": {
+        "filename": "NftWithRoyalty.code",
+        "line": 793
+      },
+      "472": {
+        "filename": "NftWithRoyalty.code",
+        "line": 794
+      },
+      "480": {
+        "filename": "NftWithRoyalty.code",
+        "line": 795
+      },
+      "496": {
+        "filename": "NftWithRoyalty.code",
+        "line": 796
+      },
+      "512": {
+        "filename": "NftWithRoyalty.code",
+        "line": 797
+      },
+      "528": {
+        "filename": "NftWithRoyalty.code",
+        "line": 798
+      },
+      "544": {
+        "filename": "NftWithRoyalty.code",
+        "line": 799
+      },
+      "552": {
+        "filename": "NftWithRoyalty.code",
+        "line": 800
+      },
+      "576": {
+        "filename": "NftWithRoyalty.code",
+        "line": 801
+      },
+      "592": {
+        "filename": "NftWithRoyalty.code",
+        "line": 802
+      },
+      "616": {
+        "filename": "NftWithRoyalty.code",
+        "line": 803
+      },
+      "624": {
+        "filename": "NftWithRoyalty.code",
+        "line": 804
+      },
+      "632": {
+        "filename": "NftWithRoyalty.code",
+        "line": 805
+      },
+      "648": {
+        "filename": "NftWithRoyalty.code",
+        "line": 806
+      },
+      "664": {
+        "filename": "NftWithRoyalty.code",
+        "line": 807
+      },
+      "672": {
+        "filename": "NftWithRoyalty.code",
+        "line": 808
+      },
+      "696": {
+        "filename": "NftWithRoyalty.code",
+        "line": 809
+      },
+      "704": {
+        "filename": "NftWithRoyalty.code",
+        "line": 810
+      },
+      "712": {
+        "filename": "NftWithRoyalty.code",
+        "line": 811
+      },
+      "728": {
+        "filename": "NftWithRoyalty.code",
+        "line": 812
+      },
+      "744": {
+        "filename": "NftWithRoyalty.code",
+        "line": 813
+      },
+      "768": {
+        "filename": "NftWithRoyalty.code",
+        "line": 814
+      },
+      "784": {
+        "filename": "NftWithRoyalty.code",
+        "line": 815
+      },
+      "792": {
+        "filename": "NftWithRoyalty.code",
+        "line": 816
+      },
+      "800": {
+        "filename": "NftWithRoyalty.code",
+        "line": 817
+      },
+      "816": {
+        "filename": "NftWithRoyalty.code",
+        "line": 818
+      },
+      "832": {
+        "filename": "NftWithRoyalty.code",
+        "line": 820
+      },
+      "840": {
+        "filename": "NftWithRoyalty.code",
+        "line": 821
+      },
+      "856": {
+        "filename": "NftWithRoyalty.code",
+        "line": 822
+      },
+      "872": {
+        "filename": "NftWithRoyalty.code",
+        "line": 825
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "9ccdbf037ae1b7fb0ec65c82c7f8e8a78ad48ae2cf019c33100b2b69dcdb9af9": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "16": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "32": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      }
+    },
+    "a10ddc09e559656712f018c0cbfd685f0df687a9bf3e7d20e4f39194ce89fae7": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 75
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 75
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 75
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "136": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "168": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "176": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "184": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "232": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "240": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "248": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "256": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "264": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 76
+      },
+      "280": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 78
+      },
+      "296": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 78
+      },
+      "312": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 78
+      },
+      "328": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "336": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "352": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "360": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "368": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "392": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "400": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "408": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "424": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "432": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "456": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "464": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "472": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "520": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "528": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "536": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "544": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      },
+      "552": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 79
+      }
+    },
+    "a1c34db85bcd710202dfe19fe8e3533dab290bd758c2af1300b0372989850c00": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1149
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1150
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1151
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1152
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1153
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1154
+      },
+      "88": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 28
+      },
+      "104": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 28
+      },
+      "120": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 28
+      },
+      "128": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 28
+      },
+      "144": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 28
+      },
+      "160": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 28
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1165
+      },
+      "184": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1168
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1169
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1170
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1171
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1172
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1173
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1174
+      },
+      "264": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1175
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1176
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1177
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1178
+      },
+      "312": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1179
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1180
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1181
+      },
+      "392": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1182
+      },
+      "400": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1183
+      },
+      "408": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1185
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1186
+      },
+      "440": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1187
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1188
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1189
+      },
+      "472": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1190
+      },
+      "488": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1191
+      },
+      "504": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1192
+      },
+      "520": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1193
+      },
+      "536": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1194
+      },
+      "544": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1195
+      },
+      "568": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1196
+      },
+      "584": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1197
+      },
+      "608": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1198
+      },
+      "616": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1199
+      },
+      "624": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1200
+      },
+      "640": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1201
+      },
+      "656": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1202
+      },
+      "672": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1203
+      },
+      "688": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1204
+      },
+      "704": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1205
+      },
+      "720": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1206
+      },
+      "744": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1207
+      },
+      "752": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1208
+      },
+      "760": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1209
+      },
+      "776": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1210
+      },
+      "792": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1212
+      },
+      "800": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1213
+      },
+      "816": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1214
+      },
+      "832": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1217
+      }
+    },
+    "a7ddac6e5d060846b0adacc3e13366a111a27ebdc9bd781397f407feceef7a56": {
+      "0": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 22
+      },
+      "16": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 24
+      },
+      "64": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 24
+      },
+      "80": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 24
+      },
+      "88": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 24
+      },
+      "104": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 24
+      },
+      "112": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 24
+      },
+      "128": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 24
+      },
+      "144": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 24
+      }
+    },
+    "aa79ecbc96d5b4f660bc6410839f93d2f89208490b6f96dff7b38b332b108e81": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 670
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 671
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 672
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 673
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 674
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 675
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 82
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 82
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 82
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 82
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 82
+      },
+      "160": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 82
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 686
+      },
+      "184": {
+        "filename": "NftWithRoyalty.code",
+        "line": 689
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 690
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 691
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 692
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 693
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 694
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 695
+      },
+      "264": {
+        "filename": "NftWithRoyalty.code",
+        "line": 696
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 697
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 698
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 699
+      },
+      "312": {
+        "filename": "NftWithRoyalty.code",
+        "line": 700
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 701
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 702
+      },
+      "392": {
+        "filename": "NftWithRoyalty.code",
+        "line": 703
+      },
+      "400": {
+        "filename": "NftWithRoyalty.code",
+        "line": 704
+      },
+      "408": {
+        "filename": "NftWithRoyalty.code",
+        "line": 706
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 707
+      },
+      "440": {
+        "filename": "NftWithRoyalty.code",
+        "line": 708
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 709
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 710
+      },
+      "472": {
+        "filename": "NftWithRoyalty.code",
+        "line": 711
+      },
+      "488": {
+        "filename": "NftWithRoyalty.code",
+        "line": 712
+      },
+      "504": {
+        "filename": "NftWithRoyalty.code",
+        "line": 713
+      },
+      "520": {
+        "filename": "NftWithRoyalty.code",
+        "line": 714
+      },
+      "536": {
+        "filename": "NftWithRoyalty.code",
+        "line": 715
+      },
+      "544": {
+        "filename": "NftWithRoyalty.code",
+        "line": 716
+      },
+      "568": {
+        "filename": "NftWithRoyalty.code",
+        "line": 717
+      },
+      "584": {
+        "filename": "NftWithRoyalty.code",
+        "line": 718
+      },
+      "608": {
+        "filename": "NftWithRoyalty.code",
+        "line": 719
+      },
+      "616": {
+        "filename": "NftWithRoyalty.code",
+        "line": 720
+      },
+      "624": {
+        "filename": "NftWithRoyalty.code",
+        "line": 721
+      },
+      "640": {
+        "filename": "NftWithRoyalty.code",
+        "line": 722
+      },
+      "656": {
+        "filename": "NftWithRoyalty.code",
+        "line": 723
+      },
+      "672": {
+        "filename": "NftWithRoyalty.code",
+        "line": 724
+      },
+      "688": {
+        "filename": "NftWithRoyalty.code",
+        "line": 725
+      },
+      "704": {
+        "filename": "NftWithRoyalty.code",
+        "line": 726
+      },
+      "720": {
+        "filename": "NftWithRoyalty.code",
+        "line": 727
+      },
+      "744": {
+        "filename": "NftWithRoyalty.code",
+        "line": 728
+      },
+      "752": {
+        "filename": "NftWithRoyalty.code",
+        "line": 729
+      },
+      "760": {
+        "filename": "NftWithRoyalty.code",
+        "line": 730
+      },
+      "776": {
+        "filename": "NftWithRoyalty.code",
+        "line": 731
+      },
+      "792": {
+        "filename": "NftWithRoyalty.code",
+        "line": 733
+      },
+      "800": {
+        "filename": "NftWithRoyalty.code",
+        "line": 734
+      },
+      "816": {
+        "filename": "NftWithRoyalty.code",
+        "line": 735
+      },
+      "832": {
+        "filename": "NftWithRoyalty.code",
+        "line": 738
+      }
+    },
+    "ad05609476db6e48ffc02604cd92d3dd8ba61bcb633489ce7d4d8441123c3a6a": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "b364ec46673bd5f1fd1aff959cb2a5a0df8bee3bbe8af18f23a1ff6f175e4f5b": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2361
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2362
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2363
+      },
+      "40": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2364
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2365
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2366
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2369
+      },
+      "96": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2370
+      },
+      "104": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2371
+      },
+      "120": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2374
+      },
+      "136": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2375
+      },
+      "144": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2376
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2377
+      },
+      "176": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2378
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2379
+      },
+      "200": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2380
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2381
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2382
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2383
+      },
+      "248": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2384
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2385
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2386
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2387
+      },
+      "288": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2389
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2390
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2391
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2393
+      },
+      "328": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2394
+      },
+      "344": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2395
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2397
+      },
+      "368": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2398
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2399
+      },
+      "392": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2400
+      },
+      "408": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2402
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2403
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2404
+      },
+      "440": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "456": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "464": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "496": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "512": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "536": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "544": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "584": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "592": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "600": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "616": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "632": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2406
+      },
+      "648": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2407
+      },
+      "656": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2408
+      },
+      "672": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2409
+      },
+      "680": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2410
+      },
+      "696": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2411
+      },
+      "712": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2412
+      },
+      "720": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2413
+      },
+      "736": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2416
+      }
+    },
+    "b75ab2a6ea1b5cd85b1bbdcfc144b1718ba1d562da0b7d12727996a646fdb6fc": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "16": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "56": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 87
+      }
+    },
+    "bbcccb78b8599f509d21aac7a6a2b76aaee82300a7bfd3101484ff5a3349ac82": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 35
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 35
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 36
+      },
+      "32": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 36
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 37
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "168": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "176": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "224": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "232": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "240": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "248": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "272": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "288": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 45
+      }
+    },
+    "c2524c624a4f5305cfb2601fdacf078711d3b3c4cf460fbf004a8019c53d569d": {
+      "0": {
+        "filename": "../contracts/TIP4_2/TIP4_2Nft.tsol",
+        "line": 18
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 138
+      },
+      "32": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 27
+      },
+      "48": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 16
+      },
+      "64": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 18
+      },
+      "112": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 18
+      },
+      "128": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 18
+      },
+      "136": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 18
+      },
+      "152": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 18
+      },
+      "160": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 18
+      },
+      "176": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 18
+      },
+      "192": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 18
+      },
+      "208": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 37
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 157
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 160
+      }
+    },
+    "c3dce2acbbfa3c0fb164068fec6cd909d9f1f966f2a8d42896280417545937fe": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1730
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1731
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1732
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1733
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1734
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1735
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "104": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "136": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "192": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "208": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 225
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1754
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1757
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1758
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1761
+      }
+    },
+    "c736685f58b7ac94fe9578cdd910f78d6cfc219d29ec22bc9786d022c09e654b": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2147
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2148
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2149
+      },
+      "40": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2150
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2151
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2152
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2153
+      },
+      "96": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2154
+      },
+      "112": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2155
+      },
+      "120": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2156
+      },
+      "128": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2157
+      },
+      "136": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2158
+      },
+      "152": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2159
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2160
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2161
+      },
+      "176": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2162
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2163
+      },
+      "200": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2164
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2165
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2166
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2167
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2168
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2169
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2170
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2171
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2172
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2173
+      },
+      "312": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2174
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2175
+      },
+      "336": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2176
+      },
+      "352": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2177
+      },
+      "368": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2178
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2179
+      },
+      "392": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2180
+      },
+      "400": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2181
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2182
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2183
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2184
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2185
+      },
+      "480": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2186
+      },
+      "496": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2187
+      },
+      "512": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2188
+      },
+      "528": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2189
+      },
+      "544": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2190
+      },
+      "560": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2191
+      },
+      "576": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2192
+      }
+    },
+    "c8e3d26ec66f01d3ffec80aef73dfb0f267934a1689bdae72326e34b4f8e3a75": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "40": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "56": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "80": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "128": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "144": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      },
+      "160": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 288
+      }
+    },
+    "cfe0d3248139a16bf4b3c759d7a35e25ce6e35ef5c05b6494b17b1c4e84b2a5d": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2055
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2056
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2057
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2058
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2059
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2060
+      },
+      "88": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 14
+      },
+      "104": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 14
+      },
+      "120": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 14
+      },
+      "128": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 14
+      },
+      "144": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 14
+      },
+      "160": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 14
+      },
+      "176": {
+        "filename": "../contracts/TIP6/TIP6.tsol",
+        "line": 14
+      },
+      "184": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2072
+      },
+      "200": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2075
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2076
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2077
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2078
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2079
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2080
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2081
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2082
+      },
+      "288": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2083
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2084
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2085
+      },
+      "328": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2086
+      },
+      "376": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2087
+      },
+      "400": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2088
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2089
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2090
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2092
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2093
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2094
+      },
+      "472": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2095
+      },
+      "488": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2096
+      },
+      "496": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2097
+      },
+      "512": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2098
+      },
+      "528": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2099
+      },
+      "544": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2100
+      },
+      "560": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2101
+      },
+      "568": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2102
+      },
+      "592": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2103
+      },
+      "608": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2104
+      },
+      "632": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2105
+      },
+      "640": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2106
+      },
+      "648": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2107
+      },
+      "664": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2108
+      },
+      "680": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2109
+      },
+      "696": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2110
+      },
+      "712": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2111
+      },
+      "728": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2112
+      },
+      "744": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2113
+      },
+      "768": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2114
+      },
+      "784": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2115
+      },
+      "792": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2116
+      },
+      "808": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2117
+      },
+      "824": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2119
+      },
+      "832": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2120
+      },
+      "848": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2121
+      },
+      "864": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2124
+      }
+    },
+    "d082360653755262835885e042ffb0365b56f18cdb074a101d3ea551406583e8": {
+      "0": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 96
+      }
+    },
+    "d0a9b13b0ece97db806e5637b87de6b4c04d4281fbd2620888aae114f74c00a6": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1992
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1993
+      },
+      "32": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1994
+      },
+      "40": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1995
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1996
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1997
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1998
+      },
+      "96": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1999
+      },
+      "112": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2000
+      },
+      "128": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2001
+      },
+      "136": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2002
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2003
+      },
+      "176": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2004
+      },
+      "200": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2005
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2006
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2007
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2008
+      },
+      "248": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2009
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2010
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2011
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2012
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2013
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2014
+      },
+      "336": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2015
+      },
+      "360": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2016
+      },
+      "376": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2017
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2018
+      },
+      "392": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2019
+      },
+      "400": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2020
+      },
+      "408": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2021
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2022
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2023
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2024
+      },
+      "440": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2025
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2026
+      },
+      "456": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2027
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2028
+      },
+      "480": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2029
+      },
+      "496": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2031
+      },
+      "504": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2032
+      },
+      "520": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2033
+      },
+      "536": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2036
+      }
+    },
+    "d0bf4cd2027e94941bdacd50b4325aa1c78d48880e94bd2189076ef533dc1a66": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 107
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 107
+      },
+      "16": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 107
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 108
+      },
+      "32": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 108
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 109
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      }
+    },
+    "d26fceafaab96fb698cdd410546c45e2828c6478ece3c7622f81d6d2da022ef4": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "8": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "40": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 239
+      }
+    },
+    "d3f2b1249b540372674fd61f7a8f6d4287139933e5e10ab78733c90080ea690b": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      }
+    },
+    "d4558544870b4995be58a7a61afa4ed8db74cb3458f27245fc4d771269dcfe92": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "56": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "112": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "120": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "152": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "168": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "176": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "192": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "208": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "240": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "248": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      },
+      "256": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 50
+      }
+    },
+    "d56fc1cea0db620ea9170eedd235aae77fc0f6238832b6aaab4e8c17b67fe1be": {
+      "0": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 61
+      },
+      "16": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 61
+      }
+    },
+    "d6bb81cf00f228b7d5a41ff2981f79cd08bb2f16865878c7ff9bd6a4445b2bf8": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 94
+      },
+      "16": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 95
+      },
+      "32": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 95
+      },
+      "48": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 96
+      },
+      "64": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "144": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "160": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "176": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "184": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 97
+      },
+      "192": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 99
+      },
+      "208": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 99
+      },
+      "216": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 99
+      },
+      "232": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 99
+      },
+      "248": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 99
+      },
+      "264": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 99
+      },
+      "272": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 99
+      },
+      "288": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 99
+      }
+    },
+    "e0261ae43d6f950040aed846b75ae924fd13f5be0ca5a9556a69dfaae8118f87": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2200
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2201
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2202
+      },
+      "32": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2203
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2204
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2205
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2206
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2207
+      },
+      "88": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2208
+      },
+      "104": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2209
+      },
+      "120": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2210
+      },
+      "128": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2211
+      },
+      "152": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2213
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2214
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2217
+      },
+      "184": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2218
+      },
+      "192": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2220
+      },
+      "200": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2221
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2222
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2224
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2225
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2226
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2229
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2230
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2231
+      },
+      "288": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2232
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2233
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2234
+      },
+      "336": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2235
+      },
+      "352": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2236
+      },
+      "368": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2237
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2238
+      },
+      "400": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2239
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2240
+      },
+      "432": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2241
+      },
+      "448": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2242
+      },
+      "464": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2243
+      },
+      "488": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2244
+      },
+      "504": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2245
+      },
+      "512": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2246
+      }
+    },
+    "e223d2c3e8b0bb4cf93a7bc62ac0204fd302a99926fbc94eab53e86b505d6c99": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2452
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2453
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2454
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2455
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2458
+      },
+      "88": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2459
+      },
+      "136": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2460
+      },
+      "144": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2461
+      },
+      "160": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2464
+      },
+      "168": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2465
+      },
+      "216": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2466
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2467
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2470
+      },
+      "248": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2471
+      },
+      "296": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2472
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2473
+      }
+    },
+    "e58c9e80e1c6a0e24da1b667ac27d48b31c44c1ed060a6adab3642f2296695ab": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 65
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 65
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 65
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 66
+      },
+      "56": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 66
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "88": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "104": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "120": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "128": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "160": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "176": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "184": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "200": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "216": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "224": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "248": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "264": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "272": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "288": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "296": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      },
+      "320": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 67
+      }
+    },
+    "e5bcdd2119476d1431fe608d0e167cc2a472cc103c84b8c2f7d0157c12a715a8": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2300
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2301
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2302
+      },
+      "40": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2303
+      },
+      "56": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2304
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2305
+      },
+      "80": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2306
+      },
+      "88": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2307
+      },
+      "96": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2308
+      },
+      "112": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2309
+      },
+      "128": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2310
+      },
+      "136": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2311
+      },
+      "144": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2312
+      }
+    },
+    "ec25527aad5c598a49d51793a1803cfdb2134cd5277bf8a6810a01e0f148c5c4": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 231
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 232
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 233
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 234
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 235
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 236
+      },
+      "88": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "96": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "104": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "112": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "120": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "128": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "136": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "152": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "160": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "168": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "176": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "192": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "200": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 108
+      },
+      "208": {
+        "filename": "NftWithRoyalty.code",
+        "line": 255
+      },
+      "224": {
+        "filename": "NftWithRoyalty.code",
+        "line": 258
+      },
+      "240": {
+        "filename": "NftWithRoyalty.code",
+        "line": 261
+      }
+    },
+    "ef4a7351e9573d75fcaa04e5f55331904d519a4caedd55f0be74341ec6ec2177": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 203
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 204
+      },
+      "24": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 204
+      },
+      "40": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 206
+      },
+      "56": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 206
+      },
+      "72": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 206
+      },
+      "88": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "96": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "216": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "224": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "232": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "240": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "248": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "296": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "304": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "312": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "320": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "328": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "336": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "344": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "352": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "360": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 207
+      },
+      "376": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1725
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 1727
+      }
+    },
+    "f0f862570b8c0c159cf1a4d6ad2262eab4e0b744e988a5c089b6cc1fd03c2020": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "8": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 110
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2342
+      },
+      "16": {
+        "filename": "NftWithRoyalty.code",
+        "line": 2343
+      }
+    },
+    "f4bd9f5aeedcbc2bf2ecfb2509017f386bedef6896c5e0e866c11b1555a3c23a": {
+      "0": {
+        "filename": "NftWithRoyalty.code",
+        "line": 312
+      },
+      "8": {
+        "filename": "NftWithRoyalty.code",
+        "line": 313
+      },
+      "24": {
+        "filename": "NftWithRoyalty.code",
+        "line": 314
+      },
+      "48": {
+        "filename": "NftWithRoyalty.code",
+        "line": 315
+      },
+      "64": {
+        "filename": "NftWithRoyalty.code",
+        "line": 316
+      },
+      "72": {
+        "filename": "NftWithRoyalty.code",
+        "line": 317
+      },
+      "88": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "104": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "120": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "128": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "144": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "160": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "168": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "176": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "184": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "192": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "200": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "208": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "224": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 21
+      },
+      "232": {
+        "filename": "NftWithRoyalty.code",
+        "line": 336
+      },
+      "248": {
+        "filename": "NftWithRoyalty.code",
+        "line": 339
+      },
+      "256": {
+        "filename": "NftWithRoyalty.code",
+        "line": 340
+      },
+      "272": {
+        "filename": "NftWithRoyalty.code",
+        "line": 341
+      },
+      "280": {
+        "filename": "NftWithRoyalty.code",
+        "line": 342
+      },
+      "288": {
+        "filename": "NftWithRoyalty.code",
+        "line": 343
+      },
+      "304": {
+        "filename": "NftWithRoyalty.code",
+        "line": 344
+      },
+      "320": {
+        "filename": "NftWithRoyalty.code",
+        "line": 345
+      },
+      "328": {
+        "filename": "NftWithRoyalty.code",
+        "line": 346
+      },
+      "336": {
+        "filename": "NftWithRoyalty.code",
+        "line": 347
+      },
+      "344": {
+        "filename": "NftWithRoyalty.code",
+        "line": 348
+      },
+      "368": {
+        "filename": "NftWithRoyalty.code",
+        "line": 349
+      },
+      "376": {
+        "filename": "NftWithRoyalty.code",
+        "line": 350
+      },
+      "384": {
+        "filename": "NftWithRoyalty.code",
+        "line": 351
+      },
+      "408": {
+        "filename": "NftWithRoyalty.code",
+        "line": 352
+      },
+      "416": {
+        "filename": "NftWithRoyalty.code",
+        "line": 353
+      },
+      "424": {
+        "filename": "NftWithRoyalty.code",
+        "line": 354
+      },
+      "472": {
+        "filename": "NftWithRoyalty.code",
+        "line": 355
+      },
+      "480": {
+        "filename": "NftWithRoyalty.code",
+        "line": 356
+      },
+      "496": {
+        "filename": "NftWithRoyalty.code",
+        "line": 357
+      },
+      "504": {
+        "filename": "NftWithRoyalty.code",
+        "line": 358
+      },
+      "512": {
+        "filename": "NftWithRoyalty.code",
+        "line": 359
+      },
+      "520": {
+        "filename": "NftWithRoyalty.code",
+        "line": 361
+      },
+      "536": {
+        "filename": "NftWithRoyalty.code",
+        "line": 362
+      },
+      "552": {
+        "filename": "NftWithRoyalty.code",
+        "line": 363
+      },
+      "560": {
+        "filename": "NftWithRoyalty.code",
+        "line": 364
+      },
+      "576": {
+        "filename": "NftWithRoyalty.code",
+        "line": 365
+      },
+      "584": {
+        "filename": "NftWithRoyalty.code",
+        "line": 366
+      },
+      "600": {
+        "filename": "NftWithRoyalty.code",
+        "line": 367
+      },
+      "616": {
+        "filename": "NftWithRoyalty.code",
+        "line": 368
+      },
+      "632": {
+        "filename": "NftWithRoyalty.code",
+        "line": 369
+      },
+      "648": {
+        "filename": "NftWithRoyalty.code",
+        "line": 370
+      },
+      "656": {
+        "filename": "NftWithRoyalty.code",
+        "line": 371
+      },
+      "680": {
+        "filename": "NftWithRoyalty.code",
+        "line": 372
+      },
+      "696": {
+        "filename": "NftWithRoyalty.code",
+        "line": 373
+      },
+      "720": {
+        "filename": "NftWithRoyalty.code",
+        "line": 374
+      },
+      "728": {
+        "filename": "NftWithRoyalty.code",
+        "line": 375
+      },
+      "736": {
+        "filename": "NftWithRoyalty.code",
+        "line": 376
+      },
+      "752": {
+        "filename": "NftWithRoyalty.code",
+        "line": 377
+      },
+      "768": {
+        "filename": "NftWithRoyalty.code",
+        "line": 378
+      },
+      "776": {
+        "filename": "NftWithRoyalty.code",
+        "line": 379
+      },
+      "800": {
+        "filename": "NftWithRoyalty.code",
+        "line": 380
+      },
+      "808": {
+        "filename": "NftWithRoyalty.code",
+        "line": 381
+      },
+      "816": {
+        "filename": "NftWithRoyalty.code",
+        "line": 382
+      },
+      "832": {
+        "filename": "NftWithRoyalty.code",
+        "line": 383
+      },
+      "848": {
+        "filename": "NftWithRoyalty.code",
+        "line": 384
+      },
+      "872": {
+        "filename": "NftWithRoyalty.code",
+        "line": 385
+      },
+      "880": {
+        "filename": "NftWithRoyalty.code",
+        "line": 386
+      },
+      "896": {
+        "filename": "NftWithRoyalty.code",
+        "line": 387
+      },
+      "904": {
+        "filename": "NftWithRoyalty.code",
+        "line": 388
+      },
+      "912": {
+        "filename": "NftWithRoyalty.code",
+        "line": 389
+      },
+      "928": {
+        "filename": "NftWithRoyalty.code",
+        "line": 390
+      },
+      "944": {
+        "filename": "NftWithRoyalty.code",
+        "line": 392
+      },
+      "952": {
+        "filename": "NftWithRoyalty.code",
+        "line": 393
+      },
+      "968": {
+        "filename": "NftWithRoyalty.code",
+        "line": 394
+      },
+      "984": {
+        "filename": "NftWithRoyalty.code",
+        "line": 397
+      }
+    },
+    "fbf4fe540211b8ecfa611f60af47aeff967e387b6d6fba1e4ab2bd430555e016": {
+      "0": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "16": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "32": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "48": {
+        "filename": "../contracts/TIP4_1/TIP4_1Nft.tsol",
+        "line": 337
+      },
+      "72": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 118
+      },
+      "88": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "96": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "112": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "128": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "144": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "160": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "168": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "176": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "200": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "216": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "240": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "248": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "256": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "280": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "296": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "304": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "352": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "368": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "376": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "392": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "400": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "408": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "424": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "432": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "440": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "448": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "456": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "464": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "472": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "480": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "488": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "496": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "504": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "512": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "528": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "544": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      },
+      "560": {
+        "filename": "../contracts/NftWithRoyalty.tsol",
+        "line": 119
+      }
+    },
+    "fd96397f61e7f77a6266d18398b8e0be173da7f8bbe596398d1ef0b46dcf4973": {
+      "0": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      },
+      "16": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      },
+      "24": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      },
+      "40": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      },
+      "56": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      },
+      "72": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      },
+      "80": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      },
+      "96": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      },
+      "112": {
+        "filename": "../contracts/TIP4_3/TIP4_3Nft.tsol",
+        "line": 83
+      }
+    },
+    "ff217e14deb9099516d4c7688e343ef1d4b999c91205ed9195430dd1b8f1a21b": {
+      "0": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 28
+      },
+      "16": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 28
+      },
+      "32": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 28
+      },
+      "48": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 28
+      },
+      "64": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 28
+      },
+      "80": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 28
+      },
+      "96": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "112": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "120": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "136": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "152": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "168": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "176": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "192": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "208": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "224": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      },
+      "240": {
+        "filename": "../contracts/TIP4_royalty/TIP4_royaltyNft.tsol",
+        "line": 29
+      }
+    }
+  }
+}

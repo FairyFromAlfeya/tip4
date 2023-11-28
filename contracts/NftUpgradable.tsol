@@ -4,10 +4,12 @@ pragma AbiHeader expire;
 pragma AbiHeader time;
 pragma AbiHeader pubkey;
 
-import "./structures/INftUpgradeData.tsol";
 import "./abstract/NftUpgradableBase.tsol";
+import "./structures/INftUpgradeData.tsol";
 
-contract NftUpgradable is NftUpgradableBase, INftUpgradeData {
+import "./TIP4_6/interfaces/ITIP4_6Upgradable.tsol";
+
+contract NftUpgradable is NftUpgradableBase, INftUpgradeData, ITIP4_6Upgradable {
 
     constructor(
         address owner,
@@ -74,6 +76,7 @@ contract NftUpgradable is NftUpgradableBase, INftUpgradeData {
         address remainingGasTo
     )
         external
+        override
         onlyCollection
     {
         tvm.rawReserve(0, 4);
